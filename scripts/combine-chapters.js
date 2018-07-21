@@ -157,6 +157,7 @@ async function mergeRecords(inputRecords, outputRecords, inputLanguages) {
 
       if (isDuplicate === true) {
         outputRecord = await mergeDuplicateRecords(inputRecord, outputRecords, j, inputLanguages);
+        break;
       }
     }
 
