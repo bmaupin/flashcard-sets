@@ -11,7 +11,7 @@ const INPUT_LANGUAGES = [
   INPUT_LANGUAGE_ENGLISH,
   INPUT_LANGUAGE_ARABIC,
 ]
-const REGEX_TO_SPLIT_WORDS = /[\s,/()]+/
+const REGEX_TO_SPLIT_WORDS = /[\s,/()?!:;'".؟؛،]+/
 
 async function main() {
   let inputFiles = getInputFiles();
@@ -185,7 +185,10 @@ async function isDuplicateArabicRecord(record1, record2, fieldIndexToCompare, re
   const field1 = record1[fieldIndexToCompare];
   const field2 = record2[fieldIndexToCompare];
 
-  if (removeArabicDiacritics(field1) === removeArabicDiacritics(field2)) {
+  let field1WithoutPunctuation = removePunctuation(field1);
+  let field2WithoutPunctuation = removePunctuation(field2);
+
+  if (removeArabicDiacritics(field1WithoutPunctuation) === removeArabicDiacritics(field2WithoutPunctuation)) {
     return await askUserIfDuplicate(record1, record2, recordLanguages);
   }
 
@@ -211,45 +214,22 @@ function removeArabicDiacritics(arabicString) {
 }
 
 async function isDuplicateEnglishRecord(record1, record2, fieldIndexToCompare, recordLanguages) {
-  const wordsToIgnore = [
-    '(f)',
-    '(m)',
-    '(plural)',
-    'a',
-    'an',
-    'the',
-  ]
-
   const field1 = record1[fieldIndexToCompare];
   const field2 = record2[fieldIndexToCompare];
 
-  const field1Words = field1.split(REGEX_TO_SPLIT_WORDS);
-  const field2Words = field2.split(REGEX_TO_SPLIT_WORDS);
+  let field1WithoutPunctuation = removePunctuation(field1);
+  let field2WithoutPunctuation = removePunctuation(field2);
 
-  for (let i = 0; i < field1Words.length; i++) {
-    let field1Word = field1Words[i];
-
-    if (field1Word === '' || wordsToIgnore.includes(field1Word)) {
-      continue;
-    }
-
-    for (let j = 0; j < field2Words.length; j++) {
-      let field2Word = field2Words[j];
-
-      if (field2Word === '' || wordsToIgnore.includes(field2Word)) {
-        continue;
-      }
-
-      if (field1Word === field2Word) {
-        console.log(field1Words);
-        console.log(field2Words);
-
-        return await askUserIfDuplicate(record1, record2, recordLanguages);
-      }
-    }
+  if (field1WithoutPunctuation === field2WithoutPunctuation) {
+    return await askUserIfDuplicate(record1, record2, recordLanguages);
   }
 
   return false;
+}
+
+function removePunctuation(str) {
+  let words = str.split(REGEX_TO_SPLIT_WORDS);
+  return words.join(' ');
 }
 
 function askUserIfDuplicate(record1, record2, recordLanguages) {
@@ -266,7 +246,7 @@ function askUserIfDuplicate(record1, record2, recordLanguages) {
       record2[arabicFieldIndex] = reverseString(record2[arabicFieldIndex]);
     }
 
-    rl.question(`Record 1: ${record1}\nRecord 2: ${record2}\nIs this a duplicate (y/n)? `, (answer) => {
+    rl.question(`\nRecord 1: ${record1}\nRecord 2: ${record2}\nIs this a duplicate (y/n)? `, (answer) => {
       rl.close();
 
       if (answer.toLowerCase() === 'y') {
