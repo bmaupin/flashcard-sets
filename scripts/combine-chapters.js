@@ -16,9 +16,7 @@ const REGEX_TO_SPLIT_WORDS = /[\s,/()?!:;'".؟؛،]+/
 async function main() {
   let inputFiles = getInputFiles();
 
-  // TODO
-  // let inputLanguages = await getInputLanguages(inputFiles);
-  let inputLanguages = [INPUT_LANGUAGE_ARABIC, INPUT_LANGUAGE_ENGLISH];
+  let inputLanguages = await getInputLanguages(inputFiles);
 
   let outputRecords = await parseInputFiles(inputFiles, inputLanguages);
 
@@ -33,7 +31,7 @@ function getInputFiles() {
     let inputParameter = process.argv[i];
 
     if (inputParameter === OUTPUT_FILENAME) {
-      console.log(`WARNING: not including output CSV ${OUTPUT_FILENAME}`);
+      console.log(`WARNING: not including output CSV file: ${OUTPUT_FILENAME}`);
       continue;
     } else if (inputParameter.endsWith('.csv')) {
       inputFiles.push(inputParameter);
@@ -240,14 +238,16 @@ function askUserIfDuplicate(record1, record2, recordLanguages) {
       output: process.stdout
     });
 
+    let record1Copy = record1.slice();
+    let record2Copy = record2.slice();
     let arabicFieldIndex = recordLanguages.indexOf(INPUT_LANGUAGE_ARABIC);
 
     if (arabicFieldIndex !== -1) {
-      record1[arabicFieldIndex] = reverseString(record1[arabicFieldIndex]);
-      record2[arabicFieldIndex] = reverseString(record2[arabicFieldIndex]);
+      record1Copy[arabicFieldIndex] = reverseString(record1Copy[arabicFieldIndex]);
+      record2Copy[arabicFieldIndex] = reverseString(record2Copy[arabicFieldIndex]);
     }
 
-    rl.question(`\nRecord 1: ${record1}\nRecord 2: ${record2}\nIs this a duplicate (y/n)? `, (answer) => {
+    rl.question(`\nRecord 1: ${record1Copy}\nRecord 2: ${record2Copy}\nIs this a duplicate (y/n)? `, async (answer) => {
       rl.close();
 
       if (answer.toLowerCase() === 'y') {
@@ -255,7 +255,7 @@ function askUserIfDuplicate(record1, record2, recordLanguages) {
       } else if (answer.toLowerCase() === 'n') {
         resolve(false);
       } else {
-        reject('Unrecognized input');
+        resolve(await askUserIfDuplicate(record1, record2, recordLanguages));
       }
     });
   });
