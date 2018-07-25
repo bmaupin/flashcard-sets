@@ -297,8 +297,8 @@ function chooseRecordToKeep(record1, record2, recordLanguages) {
               value: record1,
             },
             {
-              name: record2.toString(),
-              value: record2DisplayCopy,
+              name: record2DisplayCopy.toString(),
+              value: record2,
             }
           ]
         },
