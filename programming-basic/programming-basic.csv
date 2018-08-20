@@ -1,0 +1,34 @@
+What does SOLID stand for?,Single responsibility principle<br>Open/closed principle<br>Liskov substitution principle<br>Interface segregation principle<br>Dependency inversion principle
+What is the Single responsibility principle?,A class should have only a single responsibility—only one reason to change.
+What is the Open/closed principle?,"Software entities (classes, modules, functions, etc) should be open for extension, but closed for modification."
+What is the Liskov substitution principle?,Objects in a program should be replaceable with instances of their subtypes.
+What is the Interface segregation principle?,Many client-specific interfaces are better than one general-purpose interface.
+What is the Dependency inversion principle?,High-level modules should not depend on low-level modules. Both should depend on distractions.
+What is an abstract class?,"A class containing at least one abstract method that must be declared using the abstract keyword. It can't be instantiated, but can be subclassed."
+What is a final class?,A class declared using the final keyword that can't be subclassed/extended/inherited.
+What is a class/static variable?,"A variable declared within a class body (but not within any of its methods) that is not associated with any instance of the class and is accessible to all methods of the class, including static methods."
+What is an instance variable?,"A variable declared within a class body (but not within any of its methods) not declared using the static keyword, which is only accessible from methods accessing an instance of a class and not from static methods at all."
+What is a class/static method?,A method that isn't associated with any instance of a class and doesn't need the class to be instantiated before it can be called.
+What is an abstract method?,"A method declared using the abstract keyword, with no body, that must be overridden."
+What is a final method?, A method declared using the final keyword that can't be overridden by a subclass.
+What is upcasting?,When a derived class is treated like its base type. Upcasting is automatic in some languages such as Java and C++. The "up" in upcasting is because the casting is moving up the inheritance tree.
+What are the main principals of OOP?,Abstraction<br>Encapsulation<br>Polymorphism<br>Inheritance<br>Association<br>Aggregation<br>Composition
+What is abstraction?,Handling complexity by hiding unnecessary details from the user.
+What is encapsulation?,"Bundling data and methods that work on that data within one unit, e.g., a class in Java."
+What is polymorphism?,"The ability to present the same interface for differing underlying forms/data types. For example, integers and floats are different types but can both be added, subtracted, etc."
+What is inheritance?,A mechanism where you can to derive a class from another class for a hierarchy of classes that share a set of attributes and methods.
+What is composition?,A class that references one or more objects of other classes in instance variables. This allows you to model a has-a association between objects.
+What is an interface?,"Also called a protocol, it defines the set of methods (or messages) that an instance of a class that has that interface could respond to."
+What is method overloading?,"Method overloading is having several forms of the same method, each differing in the formal argument list."
+What is method overriding?,"Method overriding is when the exact same method definition is created in a sub-class, which results in hiding the base-class method."
+Explain stack vs heap,"Heap memory is used by all the parts of the application whereas stack memory is used only by one thread of execution. Whenever an object is created, it's always stored in the Heap space and stack memory contains the reference to it."
+How should you compare two objects in Java?,"Use <code>.equals</code>: <code>myString.equals("my text")</code>"
+"In JavaScript, what is the difference between == and === ?","=== compares without type coercion, so the types must be equal as well"
+"In JavaScript, what is hoisting?","Variable (declared using var) and function declarations are processed during the compile phase and so are available for assignment at the top of the current scope (before they've actually been declared)."
+"In JavaScript, what is the difference between var and let?","Variables declared using var have a function scope and are hoisted, whereas variables declared using let have a block scope and are not hoisted. Either can have global scope."
+"In JavaScript, what is an IIFE?","Immediately-invoked function expression, which is frequently used to create a private scope and avoid hoisting."
+"In JavaScript, what is a closure?","A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). A closure gives you access to an outer function’s scope from an inner function, even after the outer function has returned."
+"In JavaScript, how do you compare to null?","<code>someVar === null</code>"
+"In JavaScript, how do you compare to undefined?","<code>typeof someVar === 'undefined'</code>"
+"In JavaScript, what is a prototype?","A reference on an object to the object that was used to create it (its prototype)."
+"In JavaScript, what is prototypical inheritance?",""Objects are created directly from other objects. Objects have prototypes which are references to other objects and are used to look up missing behaviour from the current object (mimicking inheritance)."
