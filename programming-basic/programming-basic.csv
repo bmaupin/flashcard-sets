@@ -22,7 +22,7 @@ What is an interface?,"Also called a protocol, it defines the set of methods (or
 What is method overloading?,"Method overloading is having several forms of the same method, each differing in the formal argument list."
 What is method overriding?,"Method overriding is when the exact same method definition is created in a sub-class, which results in hiding the base-class method."
 Explain stack vs heap,"Heap memory is used by all the parts of the application whereas stack memory is used only by one thread of execution. Whenever an object is created, it's always stored in the Heap space and stack memory contains the reference to it."
-How should you compare two objects in Java?,"Use <code>.equals</code>: <code>myString.equals("my text")</code>"
+How should you compare two objects in Java?,"Use <code>.equals</code>: <code>myString.equals(anotherString)</code>"
 "In JavaScript, what is the difference between == and === ?","=== compares without type coercion, so the types must be equal as well"
 "In JavaScript, what is hoisting?","Variable (declared using var) and function declarations are processed during the compile phase and so are available for assignment at the top of the current scope (before they've actually been declared)."
 "In JavaScript, what is the difference between var and let?","Variables declared using var have a function scope and are hoisted, whereas variables declared using let have a block scope and are not hoisted. Either can have global scope."
