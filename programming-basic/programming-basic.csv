@@ -11,7 +11,7 @@ What is an instance variable?,"A variable declared within a class body (but not 
 What is a class/static method?,A method that isn't associated with any instance of a class and doesn't need the class to be instantiated before it can be called.
 What is an abstract method?,"A method declared using the abstract keyword, with no body, that must be overridden."
 What is a final method?, A method declared using the final keyword that can't be overridden by a subclass.
-What is upcasting?,When a derived class is treated like its base type. Upcasting is automatic in some languages such as Java and C++. The "up" in upcasting is because the casting is moving up the inheritance tree.
+What is upcasting?,"When a derived class is treated like its base type. Upcasting is automatic in some languages such as Java and C++. The 'up' in upcasting is because the casting is moving up the inheritance tree."
 What are the main principals of OOP?,Abstraction<br>Encapsulation<br>Polymorphism<br>Inheritance<br>Association<br>Aggregation<br>Composition
 What is abstraction?,Handling complexity by hiding unnecessary details from the user.
 What is encapsulation?,"Bundling data and methods that work on that data within one unit, e.g., a class in Java."
@@ -31,4 +31,14 @@ How should you compare two objects in Java?,"Use <code>.equals</code>: <code>myS
 "In JavaScript, how do you compare to null?","<code>someVar === null</code>"
 "In JavaScript, how do you compare to undefined?","<code>typeof someVar === 'undefined'</code>"
 "In JavaScript, what is a prototype?","A reference on an object to the object that was used to create it (its prototype)."
-"In JavaScript, what is prototypical inheritance?",""Objects are created directly from other objects. Objects have prototypes which are references to other objects and are used to look up missing behaviour from the current object (mimicking inheritance)."
+"In JavaScript, what is prototypical inheritance?","Objects are created directly from other objects. Objects have prototypes which are references to other objects and are used to look up missing behaviour from the current object (mimicking inheritance)."
+"In JavaScript, how can you test for <code>NaN</code>?","<code>Number.isNaN(someVar)</code>"
+"What is the basic SQL syntax for SELECT?","<code>SELECT column1, column2 FROM table;</code>"
+"What is the basic SQL syntax for INSERT?","<code>INSERT INTO table (column1, column2) VALUES ('value1', 'value2');</code>"
+"What is the basic SQL syntax for DELETE?","<code>DELETE FROM table WHERE column1 = 'value1';</code>"
+"What is the basic SQL syntax for UPDATE?","<code>UPDATE table SET column1 = 'value1' WHERE column2 = 'value2';</code>"
+"How can you do a nested query in SQL?","Use IN: <code>SELECT column1 ... WHERE column_name IN (SELECT ...);</code>"
+"What is the syntax for an SQL JOIN?","SELECT table1.column, table2.column FROM table1 INNER JOIN table2 ON table1.someid = table2.someid;"
+"What is a primary key in a database?","The column or set of columns used to uniquely identify the items in a table. Must be unique and not null, and there can only be one in a table."
+"What is a foreign key in a database?","A foreign key in one table points to a primary key in another table. A foreign key constraint prevents any actions that would destroy links between tables with the corresponding data values."
+"What is a database index?","An auxiliary data structure based on one or more columns which allows for faster retrieval of data stored in the database."
