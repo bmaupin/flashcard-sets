@@ -15,16 +15,16 @@ What is upcasting?,"When a derived class is treated like its base type. Upcastin
 What are the main principals of OOP?,Abstraction<br>Encapsulation<br>Polymorphism<br>Inheritance<br>Association<br>Aggregation<br>Composition
 What is abstraction?,Handling complexity by hiding unnecessary details from the user.
 What is encapsulation?,"Bundling data and methods that work on that data within one unit, e.g., a class in Java."
-What is polymorphism?,"The ability to present the same interface for differing underlying forms/data types. For example, integers and floats are different types but can both be added, subtracted, etc."
+What is polymorphism?,"The ability to present the same interface for differing underlying forms/data types. For example, <code>Shape.draw()</code> would behave differently for a Rectangle or Circle that inherit from Shape."
 What is inheritance?,A mechanism where you can to derive a class from another class for a hierarchy of classes that share a set of attributes and methods.
 What is composition?,A class that references one or more objects of other classes in instance variables. This allows you to model a has-a association between objects.
 What is an interface?,"Also called a protocol, it defines the set of methods (or messages) that an instance of a class that has that interface could respond to."
 What is method overloading?,"Method overloading is having several forms of the same method, each differing in the formal argument list."
 What is method overriding?,"Method overriding is when the exact same method definition is created in a sub-class, which results in hiding the base-class method."
-Explain stack vs heap,"Heap memory is used by all the parts of the application whereas stack memory is used only by one thread of execution. Whenever an object is created, it's always stored in the Heap space and stack memory contains the reference to it."
+Explain stack vs. heap in Java,"Heap memory is used by all the parts of the application whereas stack memory is used only by one thread of execution. Whenever an object is created, it's always stored in the Heap space and stack memory contains the reference to it."
 How should you compare two objects in Java?,"Use <code>.equals</code>: <code>myString.equals(anotherString)</code>"
 "In JavaScript, what is the difference between == and === ?","=== compares without type coercion, so the types must be equal as well"
-"In JavaScript, what is hoisting?","Variable (declared using var) and function declarations are processed during the compile phase and so are available for assignment at the top of the current scope (before they've actually been declared)."
+"In JavaScript, what is hoisting?","Variables declared using var and function declarations are processed during the compile phase and so are available for assignment at the top of the current scope (before they've actually been declared)."
 "In JavaScript, what is the difference between var and let?","Variables declared using var have a function scope and are hoisted, whereas variables declared using let have a block scope and are not hoisted. Either can have global scope."
 "In JavaScript, what is an IIFE?","Immediately-invoked function expression, which is frequently used to create a private scope and avoid hoisting."
 "In JavaScript, what is a closure?","A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). A closure gives you access to an outer function’s scope from an inner function, even after the outer function has returned."
@@ -33,6 +33,9 @@ How should you compare two objects in Java?,"Use <code>.equals</code>: <code>myS
 "In JavaScript, what is a prototype?","A reference on an object to the object that was used to create it (its prototype)."
 "In JavaScript, what is prototypical inheritance?","Objects are created directly from other objects. Objects have prototypes which are references to other objects and are used to look up missing behaviour from the current object (mimicking inheritance)."
 "In JavaScript, how can you test for <code>NaN</code>?","<code>Number.isNaN(someVar)</code>"
+"In JavaScript, how can you create a new object from another?","<code>newObj = new otherObj();</code> or <code>newObj = Object.create(otherObj);</code>"
+"In JavaScript, what is the difference between <code>new obj();</code> and <code>Object.create(obj)</code>?","<code>new obj();</code> will call the constructor function of <code>obj</code>"
+"Give an example of a JavaScript closure","<code>function closure() {<br>&nbsp;&nbsp;let count = 0;<br>&nbsp;&nbsp;function increment() {<br>&nbsp;&nbsp;&nbsp;&nbsp;console.log(count++);<br>&nbsp;&nbsp;}<br>&nbsp;&nbsp;return increment;<br>}<br>let c = closure();<br>c();</code>"
 "What is the basic SQL syntax for SELECT?","<code>SELECT column1, column2 FROM table;</code>"
 "What is the basic SQL syntax for INSERT?","<code>INSERT INTO table (column1, column2) VALUES ('value1', 'value2');</code>"
 "What is the basic SQL syntax for DELETE?","<code>DELETE FROM table WHERE column1 = 'value1';</code>"
@@ -42,3 +45,4 @@ How should you compare two objects in Java?,"Use <code>.equals</code>: <code>myS
 "What is a primary key in a database?","The column or set of columns used to uniquely identify the items in a table. Must be unique and not null, and there can only be one in a table."
 "What is a foreign key in a database?","A foreign key in one table points to a primary key in another table. A foreign key constraint prevents any actions that would destroy links between tables with the corresponding data values."
 "What is a database index?","An auxiliary data structure based on one or more columns which allows for faster retrieval of data stored in the database."
+"What is MVC?","A design pattern. Model: application data/state, view: presentation of the model, controller: updates the model or view based on input"
