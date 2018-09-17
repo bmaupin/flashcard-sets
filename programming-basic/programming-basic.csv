@@ -50,3 +50,4 @@ How should you compare two objects in Java?,"Use <code>.equals</code>: <code>myS
 "What is a foreign key in a database?","A foreign key in one table points to a primary key in another table. A foreign key constraint prevents any actions that would destroy links between tables with the corresponding data values."
 "What is a database index?","An auxiliary data structure based on one or more columns which allows for faster retrieval of data stored in the database."
 "What is MVC?","A design pattern. Model: application data/state, view: presentation of the model, controller: updates the model or view based on input"
+"What are the HTTP methods used for REST?","POST (Create)<br>GET (Read)<br>PUT (Update/Replace)<br>DELETE (Delete)<br>PATCH (Partial Update/Modify)"
