@@ -3,7 +3,7 @@ What is the Single responsibility principle?,A class should have only a single r
 What is the Open/closed principle?,"Software entities (classes, modules, functions, etc) should be open for extension, but closed for modification."
 What is the Liskov substitution principle?,Objects in a program should be replaceable with instances of their subtypes.
 What is the Interface segregation principle?,Many client-specific interfaces are better than one general-purpose interface.
-What is the Dependency inversion principle?,High-level modules should not depend on low-level modules. Both should depend on distractions.
+What is the Dependency inversion principle?,High-level modules should not depend on low-level modules. Both should depend on abstractions.
 What is an abstract class?,"A class containing at least one abstract method that must be declared using the abstract keyword. It can't be instantiated, but can be subclassed."
 What is a final class?,A class declared using the final keyword that can't be subclassed/extended/inherited.
 What is a class/static variable?,"A variable declared within a class body (but not within any of its methods) that is not associated with any instance of the class and is accessible to all methods of the class, including static methods."
@@ -12,7 +12,7 @@ What is a class/static method?,A method that isn't associated with any instance 
 What is an abstract method?,"A method declared using the abstract keyword, with no body, that must be overridden."
 What is a final method?, A method declared using the final keyword that can't be overridden by a subclass.
 What is upcasting?,"When a derived class is treated like its base type. Upcasting is automatic in some languages such as Java and C++. The 'up' in upcasting is because the casting is moving up the inheritance tree."
-What are the main principals of OOP?,Abstraction<br>Encapsulation<br>Polymorphism<br>Inheritance<br>Association<br>Aggregation<br>Composition
+What are the main principals of OOP?,Abstraction<br>Encapsulation<br>Polymorphism<br>Inheritance<br>Composition
 What is abstraction?,Handling complexity by hiding unnecessary details from the user.
 What is encapsulation?,"Bundling data and methods that work on that data within one unit, e.g., a class in Java."
 What is polymorphism?,"The ability to present the same interface for differing underlying forms/data types. For example, <code>Shape.draw()</code> would behave differently for a Rectangle or Circle that inherit from Shape."
