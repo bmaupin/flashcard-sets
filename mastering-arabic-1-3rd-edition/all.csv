@@ -152,25 +152,44 @@
 أَوَّل شارِع,the first street,Unit_07
 ثاني شارِع,the second street,Unit_07
 الشَّرْق ألاَوْسَط,The Middle East,Unit_09
-ليبْيا/ليبيّ,Libya/Libyan,Unit_09
-مِصْر/مِصْريّ,Egypt/Egyptian,Unit_09
-السُّودان/سُودَانّي,Sudan/Sudanese,Unit_09
-لُبْنان/لُبْنانّي,Lebanon/Lebanese,Unit_09
-سورِيا/سوريّ,Syria/Syrian,Unit_09
-العِرَق/عِراقيّ,Iraq/Iraqi,Unit_09
-ألاُرْدُنّ/أُرْدُنّي,Jordan/Jordanian,Unit_09
-السَّعوديّة/سَعوديّ,Saudi (Arabia)/Saudi,Unit_09
-عُمان/عُمانّي,Oman/Omani,Unit_09
-اليَمَن/يَمَنيّ,Yemen/Yemeni,Unit_09
-أمْريكا/أمْريكيّ,America/American,Unit_09
-الصِّين/صينيّ,China/Chinese,Unit_09
-روسْيا/روسيّ,Russia/Russian,Unit_09
-اليابان/يابانّي,Japan/Japanese,Unit_09
-اِنجلْتَرا/اِنْجِليزيّ,England/English,Unit_09
-فَرَنْسا/فَرَنْسيّ,France/French,Unit_09
-أَلْمانيا/أَلْمانّي,Germany/German,Unit_09
-أَسْبانيا/أَسْبانّي,Spain/Spanish,Unit_09
-إيطالْيا/إيطاليّ,Italy/Italian,Unit_09
+ليبْيا,Libya,Unit_09
+ليبيّ,Libyan,Unit_09
+مِصْر,Egypt,Unit_09
+مِصْريّ,Egyptian,Unit_09
+السُّودان,Sudan,Unit_09
+سُودَانّي,Sudanese,Unit_09
+لُبْنان,Lebanon,Unit_09
+لُبْنانّي,Lebanese,Unit_09
+سورِيا,Syria,Unit_09
+سوريّ,Syrian,Unit_09
+العِرَق,Iraq,Unit_09
+عِراقيّ,Iraqi,Unit_09
+ألاُرْدُنّ,Jordan,Unit_09
+أُرْدُنّي,Jordanian,Unit_09
+السَّعوديّةّ,Saudi (Arabia),Unit_09
+سَعوديّ,Saudi,Unit_09
+عُمان,Oman,Unit_09
+عُمانّي,Omani,Unit_09
+اليَمَن,Yemen,Unit_09
+يَمَنيّ,Yemeni,Unit_09
+أمْريكا,America,Unit_09
+أمْريكيّ,American,Unit_09
+الصِّين,China,Unit_09
+صينيّ,Chinese,Unit_09
+روسْيا,Russia,Unit_09
+روسيّ,Russian,Unit_09
+اليابان,Japan,Unit_09
+يابانّي,Japanese,Unit_09
+اِنجلْتَرا,England,Unit_09
+اِنْجِليزيّ,English,Unit_09
+فَرَنْسا,France,Unit_09
+فَرَنْسيّ,French,Unit_09
+أَلْمانيا,Germany,Unit_09
+أَلْمانّي,German,Unit_09
+أَسْبانيا,Spain,Unit_09
+أَسْبانّي,Spanish,Unit_09
+إيطالْيا,Italy,Unit_09
+إيطاليّ,Italian,Unit_09
 عاصِمة,capital (city),Unit_09
 دَوْلَة,"country, nation/state",Unit_09 Unit_14
 جِنْسيّة,nationality,Unit_09
