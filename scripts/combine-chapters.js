@@ -116,7 +116,7 @@ function formatFilenameAsTag(filename) {
   let tag = filename.toLowerCase();
   tag = removeCsvExtension(tag);
   tag = capitalizeFirstLetter(tag);
-  // Anki will replace underscores with spaces
+  // Tags are separated by space so underscore seems to be the most popular separator within a tag
   tag = tag.replace('Unit', 'Unit_');
   tag = tag.replace('Chapter', 'Chapter_');
 
