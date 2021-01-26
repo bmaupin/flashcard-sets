@@ -63,7 +63,7 @@ async function getInputLanguages(
 }
 
 function getInputLanguage(field: string): Promise<string> {
-  return new Promise((resolve, reject) => {
+  return new Promise((resolve, _reject) => {
     inquirer
       .prompt([
         {
@@ -73,7 +73,7 @@ function getInputLanguage(field: string): Promise<string> {
           choices: INPUT_LANGUAGES,
         },
       ])
-      .then((answers) => {
+      .then((answers: { inputLanguage: string }) => {
         resolve(answers.inputLanguage);
       });
   });
@@ -83,7 +83,7 @@ async function parseInputFiles(
   inputFiles: Array<string>,
   inputLanguages: Array<string>
 ): Promise<Array<Array<string>>> {
-  let outputRecords = [];
+  let outputRecords = [] as Array<Array<string>>;
 
   for (let i = 0; i < inputFiles.length; i++) {
     let inputRecords = parseInputFile(inputFiles[i]);
@@ -135,8 +135,9 @@ function formatFilenameAsTag(filename: string): string {
 
 function removeCsvExtension(filename: string): string {
   if (filename.endsWith('.csv')) {
-    return filename.slice(0, -4);
+    filename = filename.slice(0, -4);
   }
+  return filename;
 }
 
 // https://stackoverflow.com/a/1026087/399105
@@ -225,6 +226,10 @@ async function isDuplicateRecord(
         fieldIndexToCompare,
         recordLanguages
       );
+    default:
+      throw new Error(
+        `Unhandled language: ${recordLanguages[fieldIndexToCompare]}`
+      );
   }
 }
 
@@ -297,7 +302,7 @@ function askUserIfDuplicate(
   record2: Array<string>,
   recordLanguages: Array<string>
 ): Promise<boolean> {
-  return new Promise((resolve, reject) => {
+  return new Promise((resolve, _reject) => {
     const rl = readline.createInterface({
       input: process.stdin,
       output: process.stdout,
@@ -318,7 +323,7 @@ function askUserIfDuplicate(
 
     rl.question(
       `\nRecord 1: ${record1Copy}\nRecord 2: ${record2Copy}\nIs this a duplicate (y/n)? `,
-      async (answer) => {
+      async (answer: string) => {
         rl.close();
 
         if (answer.toLowerCase() === 'y') {
@@ -393,7 +398,7 @@ function chooseRecordToKeep(
           ],
         },
       ])
-      .then((answers) => {
+      .then((answers: { recordToKeep: Array<string> }) => {
         resolve(answers.recordToKeep);
       });
   });

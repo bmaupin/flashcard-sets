@@ -3,7 +3,8 @@
     "node": ">=8.0.0"
   },
   "scripts": {
-    "start": "ts-node"
+    "start": "ts-node",
+    "test": "tsc --noEmit"
   },
   "devDependencies": {
     "@types/node": "^14.14.22",
