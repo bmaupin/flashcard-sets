@@ -5,6 +5,8 @@ const path = require('path');
 const readline = require('readline');
 const stringify = require('csv-stringify/lib/sync');
 
+// We hardcode an output filename because if we instead redirect stdout to the file, we won't be able to get user input.
+// A possible improvement would be to ask the user to provide the output filename
 const OUTPUT_FILENAME = 'all.csv';
 const INPUT_LANGUAGE_ARABIC = 'Arabic';
 const INPUT_LANGUAGE_ENGLISH = 'English';
