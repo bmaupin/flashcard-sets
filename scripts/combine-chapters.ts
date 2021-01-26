@@ -24,7 +24,7 @@ async function main() {
   fs.writeFileSync(OUTPUT_FILENAME, output);
 }
 
-function getInputFiles() {
+function getInputFiles(): Array<string> {
   let inputFiles = [];
 
   for (let i = 0; i < process.argv.length; i++) {
@@ -48,11 +48,11 @@ function getInputFiles() {
   return inputFiles;
 }
 
-function printUsage() {
+function printUsage(): void {
   console.log(`Usage: ${process.argv[0]} ${process.argv[1]} file1.csv file2.csv ...`);
 }
 
-async function getInputLanguages(inputFiles) {
+async function getInputLanguages(inputFiles: Array<string>): Promise<Array<string>> {
   let inputRecords = parseInputFile(inputFiles[0]);
 
   let inputLanguage1 = await getInputLanguage(inputRecords[0][0]);
@@ -61,7 +61,7 @@ async function getInputLanguages(inputFiles) {
   return [inputLanguage1, inputLanguage2];
 }
 
-function getInputLanguage(field) {
+function getInputLanguage(field: string): Promise<string> {
   return new Promise((resolve, reject) => {
     inquirer
       .prompt([
@@ -79,7 +79,7 @@ function getInputLanguage(field) {
   });
 }
 
-async function parseInputFiles(inputFiles, inputLanguages) {
+async function parseInputFiles(inputFiles: Array<string>, inputLanguages: Array<string>): Promise<Array<Array<string>>> {
   let outputRecords = [];
 
   for (let i = 0; i < inputFiles.length; i++) {
@@ -91,14 +91,14 @@ async function parseInputFiles(inputFiles, inputLanguages) {
   return outputRecords;
 }
 
-function parseInputFile(inputFile) {
+function parseInputFile(inputFile: string): Array<Array<string>> {
   let inputRecords = parse(fs.readFileSync(inputFile));
   inputRecords = addFilenameAsTag(inputFile, inputRecords);
 
   return inputRecords;
 }
 
-function addFilenameAsTag(inputFile, inputRecords) {
+function addFilenameAsTag(inputFile: string, inputRecords: Array<Array<string>>): Array<Array<string>> {
   for (let i = 0; i < inputRecords.length; i++) {
     let inputRecord = inputRecords[i];
 
@@ -112,7 +112,7 @@ function addFilenameAsTag(inputFile, inputRecords) {
   return inputRecords;
 }
 
-function formatFilenameAsTag(filename) {
+function formatFilenameAsTag(filename: string): string {
   let tag = filename.toLowerCase();
   tag = removeCsvExtension(tag);
   tag = capitalizeFirstLetter(tag);
@@ -123,18 +123,18 @@ function formatFilenameAsTag(filename) {
   return tag;
 }
 
-function removeCsvExtension(filename) {
+function removeCsvExtension(filename: string): string {
   if (filename.endsWith('.csv')) {
     return filename.slice(0, -4);
   }
 }
 
 // https://stackoverflow.com/a/1026087/399105
-function capitalizeFirstLetter(string) {
-  return string.charAt(0).toUpperCase() + string.slice(1);
+function capitalizeFirstLetter(str: string): string {
+  return str.charAt(0).toUpperCase() + str.slice(1);
 }
 
-async function mergeRecords(inputRecords, outputRecords, inputLanguages) {
+async function mergeRecords(inputRecords: Array<Array<string>>, outputRecords: Array<Array<string>>, inputLanguages: Array<string>): Promise<Array<Array<string>>> {
   for (let i = 0; i < inputRecords.length; i++) {
     let inputRecord = inputRecords[i];
     let isDuplicate = false;
@@ -154,7 +154,7 @@ async function mergeRecords(inputRecords, outputRecords, inputLanguages) {
       }
 
       if (isDuplicate === true) {
-        outputRecord = await mergeDuplicateRecords(inputRecord, outputRecords, j, inputLanguages);
+        outputRecords = await mergeDuplicateRecords(inputRecord, outputRecords, j, inputLanguages);
         break;
       }
     }
@@ -167,7 +167,7 @@ async function mergeRecords(inputRecords, outputRecords, inputLanguages) {
   return outputRecords;
 }
 
-async function isDuplicateRecord(record1, record2, recordLanguages, fieldIndexToCompare) {
+async function isDuplicateRecord(record1: Array<string>, record2: Array<string>, recordLanguages: Array<string>, fieldIndexToCompare: number): Promise<boolean> {
   if (record1 === record2 || record1[0] === record2[0] || record1[1] === record2[1]) {
     return await askUserIfDuplicate(record1, record2, recordLanguages);
   }
@@ -180,7 +180,7 @@ async function isDuplicateRecord(record1, record2, recordLanguages, fieldIndexTo
   }
 }
 
-async function isDuplicateArabicRecord(record1, record2, fieldIndexToCompare, recordLanguages) {
+async function isDuplicateArabicRecord(record1: Array<string>, record2: Array<string>, fieldIndexToCompare: number, recordLanguages: Array<string>): Promise<boolean> {
   const field1 = record1[fieldIndexToCompare];
   const field2 = record2[fieldIndexToCompare];
 
@@ -194,7 +194,7 @@ async function isDuplicateArabicRecord(record1, record2, fieldIndexToCompare, re
   return false;
 }
 
-function removeArabicDiacritics(arabicString) {
+function removeArabicDiacritics(arabicString: string): string {
   arabicString = arabicString.replace(/َ/g, '');
   arabicString = arabicString.replace(/ً/g, '');
   arabicString = arabicString.replace(/ِ/g, '');
@@ -212,7 +212,7 @@ function removeArabicDiacritics(arabicString) {
   return arabicString;
 }
 
-async function isDuplicateEnglishRecord(record1, record2, fieldIndexToCompare, recordLanguages) {
+async function isDuplicateEnglishRecord(record1: Array<string>, record2: Array<string>, fieldIndexToCompare: number, recordLanguages: Array<string>): Promise<boolean> {
   const field1 = record1[fieldIndexToCompare];
   const field2 = record2[fieldIndexToCompare];
 
@@ -226,12 +226,12 @@ async function isDuplicateEnglishRecord(record1, record2, fieldIndexToCompare, r
   return false;
 }
 
-function removePunctuation(str) {
+function removePunctuation(str: string): string {
   let words = str.split(REGEX_TO_SPLIT_WORDS);
   return words.join(' ');
 }
 
-function askUserIfDuplicate(record1, record2, recordLanguages) {
+function askUserIfDuplicate(record1: Array<string>, record2: Array<string>, recordLanguages: Array<string>): Promise<boolean> {
   return new Promise((resolve, reject) => {
     const rl = readline.createInterface({
       input: process.stdin,
@@ -261,7 +261,7 @@ function askUserIfDuplicate(record1, record2, recordLanguages) {
   });
 }
 
-async function mergeDuplicateRecords(inputRecord, outputRecords, outputDuplicateIndex, recordLanguages) {
+async function mergeDuplicateRecords(inputRecord: Array<string>, outputRecords: Array<Array<string>>, outputDuplicateIndex: number, recordLanguages: Array<string>): Promise<Array<Array<string>>> {
   let recordToKeep = await chooseRecordToKeep(outputRecords[outputDuplicateIndex], inputRecord, recordLanguages);
 
   outputRecords[outputDuplicateIndex] = [
@@ -273,7 +273,7 @@ async function mergeDuplicateRecords(inputRecord, outputRecords, outputDuplicate
   return outputRecords;
 }
 
-function chooseRecordToKeep(record1, record2, recordLanguages) {
+function chooseRecordToKeep(record1: Array<string>, record2: Array<string>, recordLanguages: Array<string>): Promise<Array<string>> {
   let record1DisplayCopy = record1.slice();
   let record2DisplayCopy = record2.slice();
 
@@ -284,7 +284,7 @@ function chooseRecordToKeep(record1, record2, recordLanguages) {
     record2DisplayCopy[arabicFieldIndex] = reverseString(record2DisplayCopy[arabicFieldIndex]);
   }
 
-  return new Promise((resolve, reject) => {
+  return new Promise((resolve, _reject) => {
     inquirer
       .prompt([
         {
@@ -310,7 +310,7 @@ function chooseRecordToKeep(record1, record2, recordLanguages) {
   });
 }
 
-function reverseString(str) {
+function reverseString(str: string): string {
   return str.split('').reverse().join('');
 }
 
