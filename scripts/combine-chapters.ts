@@ -1,6 +1,7 @@
 const fs = require('fs');
 const inquirer = require('inquirer');
 const parse = require('csv-parse/lib/sync');
+const path = require('path');
 const readline = require('readline');
 const stringify = require('csv-stringify/lib/sync');
 
@@ -124,6 +125,7 @@ function addFilenameAsTag(
 
 function formatFilenameAsTag(filename: string): string {
   let tag = filename.toLowerCase();
+  tag = path.basename(tag);
   tag = removeCsvExtension(tag);
   tag = capitalizeFirstLetter(tag);
   // Tags are separated by space so underscore seems to be the most popular separator within a tag
