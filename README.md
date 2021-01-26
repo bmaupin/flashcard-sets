@@ -6,8 +6,9 @@
 #### Combining chapters/units
 
 ```
-cd mastering-arabic-1-3rd-edition
-node ../scripts/combine-chapters.js *.csv
+cd scripts
+npm install
+npm start combine-chapters.ts ../mastering-arabic-1-3rd-edition/*.csv
 ```
 
 
