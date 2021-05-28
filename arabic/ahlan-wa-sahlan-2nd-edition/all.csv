@@ -1,0 +1,1518 @@
+arabic,english,tags
+أسْتاذ,"professor, teacher",noun Occupations Chapter_1
+أساتِذَة,"professors, teachers",noun Occupations Chapter_1
+أيْضاً,"too, also",adv Common Chapter_1
+بِـ,"on, in, by, with, for",prep Common Chapter_1 Chapter_3
+تَعَلَّمَ,to learn,verb Chapter_1
+جامِعَة,university,noun Education Chapter_1
+جامِعات,universities,noun Education Chapter_1
+جانِب,side,noun Chapter_1
+جَدار,wall,noun Chapter_1
+جُدْران,walls,noun Chapter_1
+حَلَب,Aleppo,noun Places Chapter_1
+رياضِيّات,"mathematics, calculus",noun Subjects Chapter_1
+شّمْسِيّ,"of the sun, solar",adj Chapter_1
+شَيْء,"thing, object",noun Common Chapter_1 Chapter_19
+أشْياء,"things, objects",noun Common Chapter_1 Chapter_19
+صَفّ,class,noun Education Chapter_1
+صُفوف,classes,noun Education Chapter_1
+طالِب,male student,noun Education Chapter_1
+طُلاّب,male students,noun Education Chapter_1
+طالِبة,female student,noun Education Chapter_1
+طالِبات,female students,noun Education Chapter_1
+عَلى,on,prep Common Chapter_1
+غُرْفَة,room,noun Household Chapter_1
+غُرَف,rooms,noun Household Chapter_1
+عَفْواً,you’re welcome/excuse me,phrase Common Chapter_1 Chapter_3
+قَمَريّ,"of the moon, lunar",adj Chapter_1
+لكِنْ,but (weak version),conj Common Chapter_1
+لكِنَّ,but (strong version),conj Common Chapter_1
+لَوسَمَحْت,if you would; please,phrase Chapter_1
+لَيْسَ,not,particle Common Chapter_1
+مَحَلّ,"store, shop; place, location",noun Locations Chapter_1 Chapter_24
+مَحَلات,"stores, shops; places, locations",noun Locations Chapter_1 Chapter_24
+مَعَ,with (someone; not thing),prep Common Chapter_1 Chapter_4
+مَوْجود,"found; existing, present",noun Chapter_1 Chapter_17
+مَوْجودون,"found; existing, present (pl)",noun Chapter_1 Chapter_17
+هُناكَ,"there, there is/are",pronoun Chapter_1
+وَ,and,conj Chapter_1
+أدَب,literature,noun Subjects Chapter_2
+آداب,literature (pl),noun Subjects Chapter_2
+أرْض,"ground, land",noun Chapter_2 Chapter_18
+أراضٍ,"grounds, lands",noun Chapter_2 Chapter_18
+أولائِكَ,"those (pl, dem)",pronoun Chapter_2
+بَيْت,"house, home",noun Household Chapter_2
+بُيوت,"houses, homes",noun Household Chapter_2
+تانِكَ,"those (dual, nom)",pronoun Chapter_2
+تحِبارة,"trade, business, commerce",noun Chapter_2
+تِلكَ,"that (sing, nom)",pronoun Common Chapter_2
+تَيْنِكَ,"those (dual, acc/gen)",pronoun Chapter_2
+حَقّ,"right, law",noun Chapter_2
+حُقوق,"rights, laws",noun Chapter_2
+ذلِكَ,that,pronoun Common Chapter_2
+رِياضَة,sport,noun Sports Chapter_2
+رِياضات,sports,noun Sports Chapter_2
+رياضِيّ,of sports,adj Sports Chapter_2
+طِبّ,medicine,noun Medical Chapter_2
+عِدَّةُ,"a number of, several",noun Common Chapter_2
+عِلْم,"science, discipline",noun Subjects Chapter_2
+عَلوم,"sciences, disciplines",noun Subjects Chapter_2
+عِلميّ,"of science, scientific",adj Subjects Chapter_2
+كُلّيَّة,college,noun Education Chapter_2
+كُلّيات,colleges,noun Education Chapter_2
+لُغَة,language,noun Subjects Chapter_2
+لُغات,languages,noun Subjects Chapter_2
+لُغَويّ,"of language, linguistic",adj Subjects Chapter_2
+مُخْتبر,laboratory,noun Education Chapter_2
+مُخْتبرات,laboratories,noun Education Chapter_2
+مَسْبَح,swimming pool,noun Locations Chapter_2
+مَسابِح,swimming pools,noun Locations Chapter_2
+مَكْتَب,office,noun Locations Chapter_2
+مَكاتِب,offices,noun Locations Chapter_2
+مَكْتَبة,library; bookstore; bookcase,noun Locations Chapter_2
+مَكْتَبات,libraries; bookstores; bookcases,noun Locations Chapter_2
+مَلْعَب,"playground, sports field",noun Sports Chapter_2
+مَلاعِب,"playgrounds, sports fields",noun Sports Chapter_2
+هاتانِ,"these (dual, nom)",pronoun Chapter_2
+هاتَيْنِ,"these (dual, acc/gen)",pronoun Chapter_2
+هذانِ,"these (dual, nom)",pronoun Chapter_2
+هذَيْنِ,"these (dual, acc/gen)",pronoun Chapter_2
+هَنْدَسَة,engineering,noun Subjects Chapter_2
+هؤُلاءِ,these (pl),pronoun Chapter_2
+أَ,a question particle to form yes/no questions,particle Chapter_3
+الله,God,noun Religious Chapter_3
+ابْنُ خَلْدون,a 14th-century Arab historian and sociologist,noun People Chapter_3
+اِثنان,two,noun Numbers Chapter_3
+أرْبَعة,four,noun Numbers Chapter_3
+آسِف، آسِفة,"sorry (m, f)",noun Common Chapter_3
+أَمْ,or (particle used in questions),conj Chapter_3
+اِمرأة,woman,noun People Chapter_3
+نِساء,women,noun People Chapter_3
+الآنَ,now,noun Common Chapter_3
+اﻹنكليزية,English (language),adj Subjects Chapter_3
+أو,or (used with statements),conj Common Chapter_3
+بِطاقة,card,noun Chapter_3
+بِطاقات,cards,noun Chapter_3
+بَلْدة,small town,noun Places Chapter_3
+بَلْدات,small towns,noun Places Chapter_3
+تِسْعة,nine,noun Numbers Chapter_3
+ثَلاثة,three,noun Numbers Chapter_3
+ثَمانِية,eight,noun Numbers Chapter_3
+جَبْلة,name of a town in Syria,noun Places Chapter_3
+خَمْسة,five,noun Numbers Chapter_3
+رَجُل,man,noun People Chapter_3
+رِجال,men,noun People Chapter_3
+رَقْم,number,noun Numbers Chapter_3
+أرْقام,numbers,noun Numbers Chapter_3
+زائِد,plus,noun Chapter_3
+ساوى (يُساوي) مُساواة,to equal (MSA); to do (Levantine/Iraqi colloquial),verb Chapter_3
+سَبْعة,seven,noun Numbers Chapter_3
+سِتّة,six,noun Numbers Chapter_3
+سَكَنَ (يَسْكُنُ) سَكَن,"to live, to reside",verb Chapter_3
+سَكَنُ (الطُلاّبِ),"(student) living, residence, dormitory",noun Education Chapter_3
+شارع,street,noun Directions Chapter_3
+شَوارع,streets,noun Directions Chapter_3
+شاءَ (يَشاءُ) مَشيئة,"to want, will",verb Chapter_3
+شَقّة,apartment,noun Household Chapter_3
+شُقَق,apartments,noun Household Chapter_3
+شُكْراً,thank you,phrase Common Chapter_3
+صِفْر,zero,noun Numbers Chapter_3
+أصْفار,zero (pl),noun Numbers Chapter_3
+العَرَبيّة,Arabic (language),adj Subjects Chapter_3
+عَرَفَ (يَعرِفُ) مَعْرِفة,to know,verb Chapter_3
+عَشَرة,ten,noun Numbers Chapter_3
+عُنوان,address,noun Directions Chapter_3
+عَناوين,addresses,noun Directions Chapter_3
+الفَرَنْسِيَّة,French (language),adj Subjects Chapter_3
+كَلِمَة,word,noun Common Chapter_3
+كَلِمات,words,noun Common Chapter_3
+كَمْ,how many/much,particle Common Chapter_3
+ما,what (question particle used in front of nouns),particle Common Chapter_3 Chapter_21 Chapter_22
+ماذا,what (used with verbs),particle Common Chapter_3
+مُتَزَوِّج,married; married man,noun Family Chapter_3 Chapter_22
+مُتَزَوِّجون,married (pl); married men,noun Family Chapter_3 Chapter_22
+مَعْنى,meaning,noun Chapter_3
+مَعانٍ/المعاني,meanings,noun Chapter_3
+ناقِص,minus,noun Chapter_3 Chapter_12
+هَلْ,question particle for yes/no questions,particle Common Chapter_3
+هُوِيّة,identity,noun Chapter_3
+هُوِيّات,identities,noun Chapter_3
+واحِد,one,noun Numbers Chapter_3
+يا,vocative particle used to call the attention of the addressee,particle Common Chapter_3
+اليابانِيَّة,Japanese (language),noun Subjects Chapter_3
+أحْياء,biology,noun Subjects Chapter_4
+بَلْ,"rather, but",particle Chapter_4
+بِناية,building,noun Locations Chapter_4
+بِنايات,buildings,noun Locations Chapter_4
+حَقيبة,bag; briefcase,noun Clothing Chapter_4
+حَقائب,bags; briefcases,noun Clothing Chapter_4
+خِزانة,"closet, cupboard",noun Household Chapter_4 Chapter_18
+خَزائِن/خِزانات,"closets, cupboards",noun Household Chapter_4 Chapter_18
+دَرَسَ (يَدرُسُ) دِراسة/دَرْس,to study,verb Chapter_4
+سَرير,bed,noun Household Chapter_4
+أسِرّة,beds,noun Household Chapter_4
+صَغيرة,small; young,adj Common Chapter_4
+مادّة,"school subject, course",noun Education Chapter_4
+مَوادّ,"school subjects, courses",noun Education Chapter_4
+وُسْطى,middle,adj Common Chapter_4 Chapter_5
+أب,father,noun Family Chapter_5
+آباء,fathers,noun Family Chapter_5
+ابْتِدائيّ,elementary,adj Education Chapter_5
+ابْنٌ,son,noun Family Chapter_5
+أبْناء,sons,noun Family Chapter_5
+ابْنَة,daughter,noun Family Chapter_5
+بَنات,daughters; girls,noun Family Chapter_5 Chapter_5
+أَخ,brother,noun Family Chapter_5
+إخوة,brothers,noun Family Chapter_5
+أُخْت,sister,noun Family Chapter_5
+أَخَوات,sisters,noun Family Chapter_5
+أُمّ,mother,noun Family Chapter_5
+أُمَّهات,mothers,noun Family Chapter_5
+إنْكليزيّ,English,noun Subjects Chapter_5
+أوَّل,first,noun Numbers Chapter_5
+أوائِل,first (pl),noun Numbers Chapter_5
+بِنْت,girl,noun People Chapter_5
+تاسِع,ninth,adj Numbers Chapter_5
+تَفاضُل,differential equations,noun Subjects Chapter_5
+ثانٍ (الثاني),second,noun Numbers Chapter_5
+ثالِث,third,adj Numbers Chapter_5
+ثامِن,eighth,adj Numbers Chapter_5
+خامِس,fifth,adj Numbers Chapter_5
+دِراسِيّ,"of school, academic",adj Education Chapter_5
+رابع,fourth,adj Numbers Chapter_5
+زَوْج,husband,noun Family Chapter_5
+أزْواج,husbands,noun Family Chapter_5
+زَوْجَة,wife,noun Family Chapter_5
+زَوْجات,wives,noun Family Chapter_5
+سابع,seventh,adj Numbers Chapter_5
+سادِس,sixth,adj Numbers Chapter_5
+صَغير,"small; young; small child, young child",adj Common Chapter_5 Chapter_10
+طِفْل,child,noun People Chapter_5 Chapter_22
+أطْفال,children,noun People Chapter_5 Chapter_22
+عاشِر,tenth,adj Numbers Chapter_5
+عائِلَة,"nuclear family, family that one supports",noun Family Chapter_5 Chapter_10
+عوائِل/عائِلات,"nuclear families, family that one supports (pl)",noun Family Chapter_5 Chapter_10
+فَصْل,"(academic) term, season",noun Education Chapter_5
+فُصول,"(academic) terms, seasons",noun Education Chapter_5
+فَقَطْ,only; no more than,particle Common Chapter_5
+فيزياء,physics,noun Subjects Chapter_5
+كَبير,"big, large; old (in age)",adj Common Chapter_5 Chapter_10
+كيمياء,chemistry,noun Subjects Chapter_5
+لَطيف,nice,adj Chapter_5
+مَنْ,who,pronoun Common Chapter_5
+وَحيد,"sole, only",noun Chapter_5
+وَحيدون,"sole, only (pl)",noun Chapter_5
+وَلَد,boy,noun People Chapter_5
+أَوْلاد,boys,noun People Chapter_5
+اِسْتَطاعَ (يَسْتَطِيعُ) اِسْتِطاعة,"to be able, can",verb Common Chapter_6 Chapter_19
+آسِف/آسِفة,sorry,noun Common Chapter_6
+أعلَم,most knowledgeable,noun Chapter_6
+الله أعْلَم,God knows,phrase Common Chapter_6
+أمينُ/أمينةُ مَكتَبةٍ,librarian,noun Occupations Chapter_6
+بَرنامَج,program,noun Chapter_6 Chapter_13
+بَرامِج,programs,noun Chapter_6 Chapter_13
+تَكَلَّمَ (يَتَكَلَّمُ) تَكَلُّم,to speak,verb Common Chapter_6
+جَزيلاً,abundant,adj Chapter_6
+جَيِّد,good,adj Common Chapter_6
+جَيِّداً,well,adv Common Chapter_6
+حَيْثُ,"where, when",adv Common Chapter_6
+صَيْدَلَة,pharmacology,noun Subjects Chapter_6
+عَليم,knowledgeable,adj Chapter_6
+عَقْد,group of ten,noun Numbers Chapter_6
+عُقود,groups of ten,noun Numbers Chapter_6
+قَليل,little,adj Common Chapter_6
+قَليلاً,a little,adv Common Chapter_6
+لـ,"to, for, by",prep Chapter_6
+لا شُكْرَ على واجِب,don’t worry about it,phrase Common Chapter_6
+مُدير,"boss; director, manager",noun Occupations Chapter_6 Chapter_15
+مُدَراء,"bosses; directors, managers",noun Occupations Chapter_6 Chapter_15
+مُساعَدة,"help, assistance",noun Chapter_6
+مُوافَقَة,agreement,noun Chapter_6
+مُوَظَّف,worker; employee,noun Occupations Chapter_6
+مُوَظَّفون,workers; employees,noun Occupations Chapter_6
+مِئة,hundred,noun Numbers Chapter_6
+مِئات,hundreds,noun Numbers Chapter_6
+يُمْكِنُكَ,you (m. sg.) are able,verb Chapter_6
+أحَبَّ (يُحِبُّ) حُبّ، مَحَبّة,to like,verb Common Chapter_7
+أحياناً,sometimes,adv Common Chapter_7
+أرادَ (يُريدَ) إرادة,to want,verb Common Chapter_7
+أعطى (يُعطي) أَعْطِ,to give,verb Common Chapter_7
+إعْطاء,giving,noun Chapter_7
+أيُّ/أيّةُ,which,noun Chapter_7
+باعَ (يَبيعُ) بَيْع,to sell,verb Chapter_7 Chapter_18
+تَفَضَّلْ/تَفَضَّلي,if you please,verb Common Chapter_7
+عادَةً,usually,adv Common Chapter_7
+فَعَلَ (يَفعَلُ) فِعْل,to do,verb Common Chapter_7
+قَرَأَ (يَقرَأُ) قِراءة,to read,verb Common Chapter_7
+قُرْب,"nearby, close",adv Common Chapter_7 Chapter_16
+كَتَبَ (يَكْتُبُ) كِتابة,to write,verb Common Chapter_7
+مَجَلَّة,magazine,noun Entertainment Chapter_7
+مَجَلاّت,magazines,noun Entertainment Chapter_7
+مِنْ فَضْلِك,please,phrase Common Chapter_7
+أحْضَرَ (يُحْضِرُ) إحْضار,to bring,verb Chapter_8
+أرُزّ,rice,noun Food Chapter_8 Chapter_14
+أكَلَ (يأكُلُ) أكْل,to eat,verb Common Chapter_8
+بُرتُقال,orange,noun Food Chapter_8
+بَيْض,egg,noun Food Chapter_8
+تَعالَ/تَعالي,Come here!,verb Common Chapter_8
+تُفّاح,apple,noun Food Chapter_8
+تَناوَلَ (يَتَناوَلُ) تَناوُل,to eat; to take; to reach for something,verb Chapter_8 Chapter_19
+جُبْن,cheese,noun Food Chapter_8
+أجْبان,cheeses,noun Food Chapter_8
+جَلَسَ (يَجلِسُ) جُلوس (اِجلِسْ),to sit,verb Chapter_8
+حاضِر,"ready, all set",adj Chapter_8
+حَبّ,"grain, cereal",noun Food Chapter_8
+حُبوب,"grains, cereals",noun Food Chapter_8
+حَسَناً,"very well, okay (a response denoting agreement)",adv Common Chapter_8
+حَضَّرَ (يُحَضِّرُ) تَحْضير,"to prepare, to make",verb Chapter_8 Chapter_13
+حَليب,milk,noun Food Chapter_8
+خُبْز,bread,noun Food Chapter_8
+خَضْراوات,"vegetables, greens",noun Food Chapter_8
+خَفيف,light,adj Chapter_8
+خِنزير,"pig, swine",noun Animals Chapter_8
+خَنازير,"pigs, swine",noun Animals Chapter_8
+دَجاج,chicken,noun Food Chapter_8 Chapter_10
+دونَ,without,prep Chapter_8
+زُبْدة,butter,noun Food Chapter_8
+زَعتَر,wild thyme,noun Food Chapter_8
+زَيْتون,olive,noun Food Chapter_8
+سُكَّر,sugar,noun Food Chapter_8
+سَلَطة,salad,noun Food Chapter_8
+سَلَطات,salads,noun Food Chapter_8
+شاي,tea,noun Food Chapter_8
+شَرِبَ (يَشْرَبُ) شُرْب,to drink,verb Common Chapter_8
+صَباح,morning,noun Times Chapter_8
+طَعْمِيّة,falafel (Egypt),noun Food Chapter_8
+ظُهْر,noon,noun Times Chapter_8
+عَسَل,honey,noun Food Chapter_8
+عَصير,juice,noun Food Chapter_8
+فَطور,breakfast,noun Food Chapter_8 Chapter_13
+فُلفُل,falafel (Syria),noun Food Chapter_8
+فَلافِل,falafel (Syria) (pl),noun Food Chapter_8
+فِنْجان,cup,noun Dishes Chapter_8
+فَناجين,cups,noun Dishes Chapter_8
+فول,fava beans,noun Food Chapter_8
+قِطْعة,piece,noun Chapter_8
+قِطَع,pieces,noun Chapter_8
+قَهْوة,coffee,noun Food Chapter_8
+كَأس,glass,noun Dishes Chapter_8
+كُؤوس,glass (pl),noun Dishes Chapter_8
+كَثيراً,a great deal,adv Chapter_8
+لحْم,meat,noun Food Chapter_8
+لُحوم,meats,noun Food Chapter_8
+ما رأيُك,What’s your opinion?,phrase Chapter_8
+ماء,water,noun Food Chapter_8
+مِياه,water (pl),noun Food Chapter_8
+مَتى,when,particle Common Chapter_8
+مُرَبّى,"jam, preserve",noun Food Chapter_8
+مُرَبَّيات,"jams, preserves",noun Food Chapter_8
+مَسْلوق,boiled,particle Chapter_8
+مَساء,evening,noun Times Chapter_8
+مَطْبَخ,kitchen,noun Household Chapter_8
+مَطابِخ,kitchens,noun Household Chapter_8
+مَطْعَم,restaurant,noun Locations Chapter_8
+مَطاعِم,restaurants,noun Locations Chapter_8
+مَقْصَف,cafeteria,noun Locations Chapter_8
+مَقاصِف,cafeterias,noun Locations Chapter_8
+مُوافِق,agree,adj Chapter_8
+أحَد,one,noun Chapter_9
+آحاد,one (pl),noun Chapter_9
+اِسْتَيْقَظَ (يَسْتَيْقِظُ) اِسْتَيقاظ,to wake up,verb Chapter_9
+إحْصاء,statistics,noun Subjects Chapter_9
+انْتَهى (يَنْتَهي) اِنْتِهاء (مِن),"to end, to finish, to come to an end",verb Chapter_9 Chapter_17
+إلاّ,"except, minus",particle Chapter_9
+ألْف,thousand,noun Numbers Chapter_9
+آلاف,thousands,noun Numbers Chapter_9
+بَدَأ (يَبْدَأُ) بِداية، بَدْء,to begin,verb Chapter_9 Chapter_17
+بَعْدَ,after,prep Chapter_9
+ثُلْث,a third,noun Numbers Chapter_9
+أثْلاث,thirds,noun Numbers Chapter_9
+حَديث (اِسْم),conversation,noun Chapter_9
+أحاديث,conversations,noun Chapter_9
+حِمَّص,hummus,noun Food Chapter_9
+دَقيقَة,minute,noun Times Chapter_9
+دَقائِق,minutes,noun Times Chapter_9
+دَوْلِيّ,international,noun Chapter_9
+رُبْع,quarter,noun Numbers Chapter_9
+أرْباع,quarters,noun Numbers Chapter_9
+ساعَة,"o’clock, hour, watch, clock",noun Times Chapter_9
+ساعات,"o’clock (pl), hours, watches, clocks",noun Times Chapter_9
+عَلاقة,relation,noun Chapter_9
+عَلاقات,relations,noun Chapter_9
+عَنى (يَعْني),to mean,verb Chapter_9
+فُرْصَة سَعيدة,"pleased to meet you (lit. ""a happy opportunity"")",phrase Common Chapter_9
+كَباب,kebab,noun Food Chapter_9
+مُتَّحِد,united,adj Chapter_9
+مُحاسَبة,accounting,noun Subjects Chapter_9
+مَوْعِد,"time, appointment",noun Times Chapter_9
+مَواعيد,"times, appointments",noun Times Chapter_9
+نامَ (يَنامُ) نَوْم,"to fall asleep, to sleep",verb Chapter_9 Chapter_11
+نِصْف,half,noun Numbers Chapter_9
+أنْصاف,halves,noun Numbers Chapter_9
+هُنا,here,adv Common Chapter_9
+وَحْدَهُ,"alone, by himself",adv Chapter_9
+الوِلاياتُ المُتَّحِدةُ الأمريكيّة,The United States of America,noun Places Chapter_9
+أُسْرة,"immediate (parents, siblings) and extended family; extended family",noun Family Chapter_10 Chapter_14
+أُسَر,"immediate (parents, siblings) and extended families; extended families",noun Family Chapter_10 Chapter_14
+ألمانيا,Germany,noun Places Chapter_10
+ألمانيّ,German,adj Places Chapter_10
+الباكِسْتان,Pakistan,noun Places Chapter_10
+ثانَوِيّ,secondary,adj Chapter_10
+جَديد,new,adj Common Chapter_10
+جُدُد,new (pl),adj Common Chapter_10
+جَميل,"beautiful, good-looking",adj Common Chapter_10
+جَميلون,"beautiful, good-looking (pl)",adj Common Chapter_10
+حَديث (صِفَة),modern,adj Chapter_10
+دار,house,noun Household Chapter_10
+دور,houses,noun Household Chapter_10
+دِراسة,study,noun Education Chapter_10
+دِراسات,studies,noun Education Chapter_10
+ذَهَبَ (يَذْهَبُ) ذَهاب,to go,verb Common Chapter_10
+سائِق,"driver, chauffeur",noun Occupations Chapter_10
+سائقون,"drivers, chauffeurs",noun Occupations Chapter_10
+سوق,market,noun Locations Chapter_10
+أسْواق,markets,noun Locations Chapter_10
+صَديق,friend,noun People Chapter_10
+أصْدِقاء,friends,noun People Chapter_10
+صِغار,"small (pl); young (pl); small children, young children",adj Common Chapter_10
+طَويل,tall,noun Descriptive Chapter_10
+طِوال,tall (pl),noun Descriptive Chapter_10
+عِقال,cord used to hold a headdress in place,noun Clothing Chapter_10
+عُقُل,cord used to hold a headdress in place (pl),noun Clothing Chapter_10
+عَمِلِ (يَعْمَلُ) عَمَل,to work,verb Common Chapter_10
+غُتْرة,a man’s headdress,noun Clothing Chapter_10
+غُتَر/غُترات,men’s headdresses,noun Clothing Chapter_10
+فَتاة,"girl, young woman",noun People Chapter_10
+فَتَيات,"girls, young women",noun People Chapter_10
+قَديم,"old, ancient",adj Common Chapter_10
+قُدَماء,"old, ancient (pl)",adj Common Chapter_10
+قَصير,short,noun Descriptive Chapter_10
+قِصار,short (pl),noun Descriptive Chapter_10
+قَويّ,"powerful, strong",adj Chapter_10
+أقوِياء,"powerful, strong (pl)",adj Chapter_10
+كِبار,"big, large; old (in age) (pl)",adj Common Chapter_10
+كوفِيّة,headdress,noun Clothing Chapter_10
+كوفيّات,headdresses,noun Clothing Chapter_10
+لَبِسَ (يَلبَسُ) لُبْس,to wear,verb Chapter_10
+ما,particle used negate past-tense verbs,particle Chapter_10
+مُحَرِّك,"engine, motor",noun Transportation Chapter_10
+مَحَرِّكات,"engines, motors",noun Transportation Chapter_10
+وَسيم,handsome,adj Chapter_10
+وَسيمون,handsome (pl),adj Chapter_10
+الهِنْد,India,noun Places Chapter_10
+اليابان,Japan,noun Places Chapter_10
+آب,August,noun Months Chapter_11
+أتى (يَأتي) إتيان (إلى),to come,verb Chapter_11
+الإثْنَين,Monday,noun Days Chapter_11
+الأَحَد,Sunday,noun Days Chapter_11
+آذار,March,noun Months Chapter_11
+الأرْبِعاء,Wednesday,noun Days Chapter_11
+أُسْبوع,week,noun Times Chapter_11
+أَسابيع,weeks,noun Times Chapter_11
+اِشتَرى (يَشتري) شِراء,to buy,verb Chapter_11
+أكيد,"certainly, surely",adv Chapter_11
+أَمْسِ,yesterday,adv Chapter_11
+أَنَّ,that (after verbs similar to “think”),particle Chapter_11
+إنَّ,that (after the verb for “say”),particle Chapter_11
+إنْ شاءَ الله,"God willing, hopefully",phrase Common Chapter_11
+أيّار,May,noun Months Chapter_11
+أَيْلول,September,noun Months Chapter_11
+بَعْضُ,some,noun Chapter_11 Chapter_12
+تِشرين الأوَّل,October,noun Months Chapter_11
+تِشرين الثاني,November,noun Months Chapter_11
+تَعَرَّفَ (يَتَعَرَّفُ) تَعَرُّف (على),to be acquainted with,verb Chapter_11 Chapter_23
+تَقويم,calendar,noun Chapter_11
+تَقاويم,calendars,noun Chapter_11
+تَمّوز,July,noun Months Chapter_11
+الثُلاثاء,Tuesday,noun Days Chapter_11
+جاء (يَجيءُ) مَجيء,to come,verb Common Chapter_11
+جُاوس,sitting (verbal noun),noun Chapter_11
+جُمادى الآخِرة,Islamic month (jumAdi al-Aghira),noun Months Chapter_11
+جُمادى الأولى,Islamic month (jumAdi al-‘Ula),noun Months Chapter_11
+الجُمعة,Friday,noun Days Chapter_11
+حَتّى,"till, until",particle Chapter_11
+حَزيران,June,noun Months Chapter_11
+حينَ,when,adv Chapter_11
+الخَميس,Thursday,noun Days Chapter_11
+دَرْس,lesson,noun Education Chapter_11
+دُروس,lessons,noun Education Chapter_11
+ذو الحِجّة,Islamic month (thu al-Hijja),noun Months Chapter_11
+ذو القِعدة,Islamic month (thu al-qi’da),noun Months Chapter_11
+رائع,"wonderful, awesome",adj Chapter_11
+رَبيع الآخِر,Islamic month (rabi al-Aghira),noun Months Chapter_11
+رَبيع الأوَّل,Islamic month (rabi al-‘Awwal),noun Months Chapter_11
+رَجَب,Islamic month (rajab),noun Months Chapter_11
+رَمَضان,Islamic month (ramaDAn),noun Months Chapter_11 Chapter_15
+زارَ (يَزورُ) زِيارة,to visit,verb Chapter_11 Chapter_14
+سَـ,"shall, will (future particle)",particle Chapter_11
+السَبْت,Saturday,noun Days Chapter_11
+سَنة,year,noun Times Chapter_11
+سَنَوات/سُنون,years,noun Times Chapter_11
+سَوْفَ,"shall, will (future particle)",particle Chapter_11
+شُباط,February,noun Months Chapter_11
+شَرْشَف,bed sheet,noun Household Chapter_11
+شَراشِف,bed sheets,noun Household Chapter_11
+شَعبان,Islamic month (sha’bAn),noun Months Chapter_11
+شَهْر,month,noun Times Chapter_11
+أشْهُر/شُهور,months,noun Times Chapter_11
+شَوّال,Islamic month (shawwAl),noun Months Chapter_11
+صَفَر,Islamic month (Safar),noun Months Chapter_11
+ضَيْف,guest,noun People Chapter_11
+ضُيوف,guests,noun People Chapter_11
+طائِرة,airplane,noun Transportation Chapter_11
+طائِرات,airplanes,noun Transportation Chapter_11
+ظَنَّ (يَظُنُّ),"to think, to believe",verb Chapter_11
+غَداً,tomorrow,adv Common Chapter_11
+فُنْدُق,hotel,noun Locations Chapter_11
+فَنادِق,hotels,noun Locations Chapter_11
+قابَلَ (يُقابِلُ) مُقابَلة,to meet,verb Chapter_11
+قالَ (يَقولُ) قَوْل,to say,verb Chapter_11
+قَبْلَ,before,adv Common Chapter_11
+قَريب,"close, near; a relative",adv Common Chapter_11 Chapter_23
+قَميص,shirt,noun Clothing Chapter_11
+قُمْصان,shirts,noun Clothing Chapter_11
+كانَ (يَكونُ) كَوْن,"to be (was, were)",verb Common Chapter_11
+كانون الأوَّل,December,noun Months Chapter_11
+كانون الثاني,January,noun Months Chapter_11
+مانِع,objection,noun Chapter_11
+مُتَحَمِّس,enthusiastic,adj Chapter_11
+مُحَرَّم,Islamic month (muHarram),noun Months Chapter_11
+مَشى (يَمْشي) مَشي,to walk,verb Common Chapter_11
+مَطار,airport,noun Transportation Chapter_11
+مَطارات,airports,noun Transportation Chapter_11
+نَزَلَ (يَنْزِلُ) نُزول,to stay (in a place),verb Chapter_11
+نَوْم,sleeping,noun Chapter_11
+نيسان,April,noun Months Chapter_11
+وِسادة,pillow,noun Household Chapter_11
+وَسائِد,pillows,noun Household Chapter_11
+وَصَلَ (يَصِلُ) وُصول,"to arrive, to reach a destination",verb Chapter_11
+يَوْم,day,noun Times Chapter_11
+أيّام,days,noun Times Chapter_11
+اليَوْم,today,adv Common Chapter_11
+يَوْمِيّة,"diary, daily journal",noun Chapter_11
+يومِيّات,"diaries, daily journals",noun Chapter_11
+أخْضَر,green,adj Colors Chapter_12
+خُضْر,green (pl),adj Colors Chapter_12
+بارِد,cold,adj Chapter_12
+بَحْر,sea,noun Geography Chapter_12
+بِحار,seas,noun Geography Chapter_12
+بُحَيْرة,lake,noun Geography Chapter_12
+بُحَيْرات,lakes,noun Geography Chapter_12
+ثَلْج,snow,noun Chapter_12
+ثُلوج,snow (pl),noun Chapter_12
+حارّ,hot,adj Common Chapter_12
+حَرارة,heat,noun Chapter_12
+خَريف,autumn,noun Times Chapter_12
+خَضْراء,green,adj Colors Chapter_12
+خُضْر,green (pl),adj Colors Chapter_12
+دافِئ,warm,adj Common Chapter_12
+دَرَجة,"class, step, level, degree (temperature)",noun Chapter_12 Chapter_23
+دَرَجات,"classes, steps, levels, degrees (temperature)",noun Chapter_12 Chapter_23
+رَبيع,spring,noun Times Chapter_12
+ريح,wind,noun Chapter_12
+رِياح,winds,noun Chapter_12
+زَهْرة,flower,noun Plants Chapter_12
+زَهَرات/أزْهار,flowers,noun Plants Chapter_12
+ساطِع,"brilliant, shining",adj Chapter_12
+سَبَحَ (يَسْبَحُ) سِباحة,to swim,verb Chapter_12
+سَقَط (يَسْقُطُ) سُقوط,to fall,verb Chapter_12
+سَماء,sky,noun Nature Chapter_12
+سَماوات,skies,noun Nature Chapter_12
+شاطِئ,beach,noun Nature Chapter_12
+شَواطِئ,beaches,noun Nature Chapter_12
+شِتاء,winter,noun Times Chapter_12
+شَجَرة,tree,noun Plants Chapter_12
+شَجَرات,trees,noun Plants Chapter_12
+شَمْس,sun,noun Nature Chapter_12
+شُموس,suns,noun Nature Chapter_12
+صافٍ، صافِية,"pure; clear, not cloudy",adj Chapter_12
+صَحْوٌ,"clear, fine (of weather)",adj Chapter_12
+طَريق,"way, road",noun Directions Chapter_12 Chapter_19
+طُرُق، طُرُقات,"ways, roads",noun Directions Chapter_12 Chapter_19
+طَقْس,weather,noun Chapter_12
+طُقوس,weather (pl),noun Chapter_12
+عامِل,"worker, laborer",noun Occupations Chapter_12 Chapter_14
+عُمّال,"workers, laborers",noun Occupations Chapter_12 Chapter_14
+عيدُ العُمّال,Labor Day,noun Holidays Chapter_12 Chapter_14
+غائِم,"cloudy, overcast",adj Chapter_12
+غَيْمة,rain cloud,noun Nature Chapter_12
+غُيوم,rain clouds,noun Nature Chapter_12
+كُلّ,"every, all, the whole",noun Common Chapter_12
+لَوْن,color,noun Colors Chapter_12
+ألْوان,colors,noun Colors Chapter_12
+لَيْل,night,noun Times Chapter_12
+ماطِر,rainy,adj Chapter_12
+مَطَر,rain,noun Nature Chapter_12
+أمْطار,rains,noun Nature Chapter_12
+مُعْتَدِل,moderate,adj Chapter_12
+مُعْظَم,most,noun Chapter_12
+نَهار,daytime,noun Times Chapter_12
+اسْتَحَمَّ (يَستَحِمُّ) استِحْمام,"to bathe, to take a bath or shower",verb Chapter_13
+اِنتَقَلَ (يَنتَقِلُ) اِنْتِقال,"to move, to relocate",verb Chapter_13 Chapter_15
+بِحاجةٍ (إلى),in need of,phrase Chapter_13
+تَبّولة,tabouleh salad,noun Food Chapter_13
+ثُمَّ,"then, and again",conj Chapter_13
+جَهَّزَ (يُجَهِّزُ) تَجْهيز,to prepare,verb Chapter_13
+حافِلة,"bus, tram",noun Transportation Chapter_13
+حافِلات,"buses, trams",noun Transportation Chapter_13
+حَلَقَ (يَحْلِقُ) حَلْق,to shave,verb Chapter_13
+حَمّام,bathroom,noun Household Chapter_13
+حمّامات,bathrooms,noun Household Chapter_13
+خَبَر,news story,noun Chapter_13
+أخْبار,news stories,noun Chapter_13
+خُضرة,vegetable,noun Food Chapter_13
+خُضَر,vegetables,noun Food Chapter_13
+ذَقْن,"chin (or beard, when shaving)",noun Body Chapter_13
+ذُقون,"chins (or beards, when shaving)",noun Body Chapter_13
+رَتّبَ (يُرَتِّبُ) تَرْتيب,to organize,verb Chapter_13
+رَجَعَ (يَرْجِعُ) رُجوع,"to return, to go back",verb Chapter_13
+رِسالة,"letter, message",noun Chapter_13
+رَسائِل,"letters, messages",noun Chapter_13
+سِنٌّ,tooth,noun Body Chapter_13
+أسْنان,teeth,noun Body Chapter_13
+شاهَدَ (يُشاهِدُ) مُشاهَدة,"to witness, to see, to watch",verb Chapter_13 Chapter_19
+صابون,soap,noun Chapter_13
+صَحْن,plate,noun Dishes Chapter_13
+صُحون,plates,noun Dishes Chapter_13
+عادَ (يَعودُ) عَوْدة,"to go back, to return",verb Chapter_13 Chapter_22
+عالَم,world,noun Chapter_13
+عَوالِم,worlds,noun Chapter_13
+عُطْلة,break; vacation,noun Chapter_13 Chapter_14
+عُطْلات/عُطَل,breaks; vacations,noun Chapter_13 Chapter_14
+عَشاء,dinner,noun Food Chapter_13
+أعْشِية,dinners,noun Food Chapter_13
+غَداء,lunch,noun Food Chapter_13
+أغْدِية,lunches,noun Food Chapter_13
+غَسَلَ (يَغْسِلُ) غَسْل,to wash,verb Chapter_13
+غَيَّرَ (يُغَيِّرُ) تَغيير,to change something,verb Chapter_13
+فُرْشاة,brush,noun Chapter_13
+فَراشٍ,brushes,noun Chapter_13
+قَضى (يَقضي) قَضاء,to spend time,verb Chapter_13
+كِتابة,writing,noun Subjects Chapter_13
+كَثير,"much, a great deal",noun Common Chapter_13
+كَثيرون/كِثار,"much, a great deal (pl)",noun Common Chapter_13
+ﻷَنَّ,because,particle Chapter_13
+لَبَن,yogurt,noun Food Chapter_13
+لِماذا,why,particle Chapter_13
+مُبَكِّر,one coming early,noun Chapter_13
+مُبَكِّرون,one coming early (pl),noun Chapter_13
+مُتَأخِّر,one coming late,noun Chapter_13
+مُتَأخِّرهن,one coming late (pl),noun Chapter_13
+مٌدَمَّس,stewed,adj Chapter_13
+مَرّة,"once, one occurrence",noun Common Chapter_13
+مَرّات,"once, one occurrence (pl)",noun Common Chapter_13
+مُسَلسَل,"show, (television) series, serial",noun Entertainment Chapter_13 Chapter_22
+مُسَلسَلات,"shows, (television) series, serials",noun Entertainment Chapter_13 Chapter_22
+مٌشاهَدة,watching,noun Chapter_13
+مَشْغول,busy,noun Chapter_13
+مَشْغولون,busy (pl),noun Chapter_13
+مَعاً,together,adv Chapter_13
+مَعْجون,paste,noun Chapter_13
+مَعاجين,pastes,noun Chapter_13
+مَقليّ,fried,adj Food Chapter_13
+نَسِيَ (يَنسى) نِسْيان,to forget,verb Chapter_13
+نَظَّفَ (يُنَظِّفُ) تَنْظيف,to clean,verb Chapter_13
+نَهَضَ (يَنهَضُ) نُهوض,to get up,verb Chapter_13
+وَاللّهِ,"by God, I swear, really (used to add emphasis)",phrase Chapter_13
+وَجْه,face,noun Body Chapter_13
+وُجوه,faces,noun Body Chapter_13
+يَد,hand,noun Body Chapter_13
+أيْدٍ,hands,noun Body Chapter_13
+اِنتَظَرَ (يَنْتَظِرُ) اِنتِظار,to wait,verb Chapter_14 Chapter_23
+بَصَل,onion,noun Food Chapter_14
+حَيّ,"neighborhood, borough; a living person",noun Chapter_14 Chapter_22
+أحْياء,"neighborhoods, boroughs; living people",noun Chapter_14 Chapter_22
+شو,what (Syrian colloquial),particle Chapter_14
+صِحافة,journalism,noun Subjects Chapter_14
+عاميّة,colloquial,adj Chapter_14
+عَدَس,lentils,noun Food Chapter_14
+عُطْلَةُ نِهايَةِ اﻷُسْبوعِ,weekend,noun Times Chapter_14
+عُمْدَة,mayor,noun Titles Chapter_14
+عُمَد,mayors,noun Titles Chapter_14
+عيد,"celebration, festivity, feast day, holiday",noun Times Chapter_14
+أعْياد,"celebrations, festivities, feast days, holidays",noun Times Chapter_14
+فُصْحى,"Classical Arabic (lit., ""most eloquent"")",noun Languages Chapter_14
+فَضَّلَ (يُفَضِّل) تَفْضيل,to prefer,verb Chapter_14
+قِطار,train,noun Transportation Chapter_14
+قِطارات,trains,noun Transportation Chapter_14
+قَوْس,arch,noun Chapter_14
+أقْواس,arches,noun Chapter_14
+لَبَنة,"lightly salted, partially dehydrated yogurt with olive oil",noun Food Chapter_14
+لِذلِكَ,"for this reason, therefore",adv Chapter_14
+مَحَطّة,station,noun Locations Chapter_14
+مَحَطّات,stations,noun Locations Chapter_14
+مُزْدَحِم,crowded,adj Chapter_14
+مَشْهور,"famous, well-known",adj Chapter_14 Chapter_23
+"(ون), مَشاهير","famous, well-known (pl)",adj Chapter_14
+مَعْكَرونة,"pasta, macaroni",noun Food Chapter_14
+مَلْهىً,place of entertainment,noun Entertainment Chapter_14
+مَلاهٍ,places of entertainment,noun Entertainment Chapter_14
+مُهَنْدِس,engineer,noun Occupations Chapter_14
+مُهَندِسون,engineers,noun Occupations Chapter_14
+نَظيف,clean,adj Chapter_14
+نِهاية,end,noun Common Chapter_14
+نِهايات,ends,noun Common Chapter_14
+اِحْتَفَلَ (يَحْتَفِلُ) اِحْتِفال بِـ,to celebrate,verb Chapter_14
+اِسْتِقلال,independence,noun Abstract Chapter_15
+إسلام,Islam,noun Islam Chapter_15
+بَلَد,country,noun Places Chapter_15
+بِلاد,countries,noun Places Chapter_15
+تَخَرَّجَ (يتخرَّجُ) تَخَرُّج,to graduate,verb Chapter_15
+تَرْبِية,"education, upbringing",noun Education Chapter_15
+تَعليم,"instruction, education",noun Education Chapter_15
+ثَوْرة,revolution,noun Chapter_15
+ثَورات,revolutions,noun Chapter_15
+حَجّ,pilgrimage,noun Islam Chapter_15
+حَلْوى,"dessert, sweets",noun Food Chapter_15
+حَلوَيات,"desserts, sweets",noun Food Chapter_15
+خاصّ,"special, particular (to)",adj Chapter_15
+ديك,rooster,noun Animals Chapter_15
+دِيَكة,roosters,noun Animals Chapter_15
+ديك حَبَش,turkey,noun Food Chapter_15
+ذو,"with, of, owner of",noun Chapter_15
+ذَوو,"with, of, owner of (pl)",noun Chapter_15
+رأس,head,noun Body Chapter_15
+رُؤوس,heads,noun Body Chapter_15 Chapter_16
+زَيَّنَ (يُزَيِّنُ) تزيين,"to adorn, to decorate",verb Chapter_15 Chapter_16
+ساحة,"square, courtyard",noun Locations Chapter_15
+ساحات,"squares, courtyards",noun Locations Chapter_15 Chapter_19
+سَلَّمَ (يُسَلِّمُ) تَسْليم,"to save, to protect",verb Chapter_15 Chapter_19
+سِنّ,age of a person,noun Common Chapter_15
+صارَ (يَصيرُ) صَيْر، صَيْرورة، مَصير,to become,verb Chapter_15
+صامَ (يَصومُ) صوْم,to fast,verb Chapter_15
+صَلّى (يُصَلّي),"to pray, to bless",verb Chapter_15
+صَنَعَ (يَصنَعُ) صِناعة,"to manufacture, to make",verb Chapter_15
+طَعلم,food,noun Food Chapter_15 Chapter_21
+أطْعِمة,foods,noun Food Chapter_15
+عِبارة,phrase,noun Grammar Chapter_15
+عِبارات,phrases,noun Grammar Chapter_15
+عَطّّلَ (يِعِطِّلُ) تَعْطيل,to be off from work,verb Chapter_15
+عيدُ اﻷضْحى,Feast of Immolation/sacrifice,noun Holidays Chapter_15
+عيدُ الشُكْرِ,Thanksgiving,noun Holidays Chapter_15
+عيدُ الفِصْحِ,Easter,noun Holidays Chapter_15
+عيدُ الفِطْرِ,feast of breaking the Ramadan fast,noun Holidays Chapter_15
+عيدُ الميلاد,Christmas,noun Holidays Chapter_15
+فَجْر,"dawn, daybreak",noun Times Chapter_15
+فَطيرة,pie,noun Food Chapter_15
+فَطائِر,pies,noun Food Chapter_15
+قَرْع,pumpkin,noun Food Chapter_15
+مُبارَك,blessed,noun Chapter_15
+مُتَوَسِّط,intermediate,adj Common Chapter_15 Chapter_17
+مُسْلِم,Muslim,noun Islam Chapter_15
+مُسْلِمون,Muslims,noun Islam Chapter_15
+المَسيح,Christ,noun Religious Chapter_15
+مُعَلِّم,teacher,noun Occupations Chapter_15
+مُعَلِّمون,teachers,noun Occupations Chapter_15
+مَعلومة,information,noun Chapter_15
+مَعلومات,information (pl),noun Chapter_15
+مَغْرِب,sunset,noun Times Chapter_15
+مُناسَبة,occasion,noun Chapter_15
+مُناسَبات,occasions,noun Chapter_15
+مِنْطَقة,region,noun Places Chapter_15
+مَناطِق,regions,noun Places Chapter_15
+مَوْلِد,"birthday, birthplace",noun Chapter_15
+ميلاد,"birth, birthday",noun Chapter_15
+مَواليد,"births, birthdays",noun Chapter_15
+نَبيّ,prophet,noun Religious Chapter_15
+أنْبياء,prophets,noun Religious Chapter_15
+هَنَّأ (يُهَنِّئُ) تَهنئة,"to congratulate, to felicitate",verb Chapter_15
+وُلِدَ (يولَدُ) وِﻻدة/مَوْلِد,to be born (passive),verb Chapter_15
+اِجْتِماع,social gathering,noun Chapter_15
+اِجْتِماعات,social gatherings,noun Chapter_16
+اِستَخدَمَ (يَستَخدِمُ) اِستِخدام,"to use, to utilize, to employ",verb Chapter_16
+اُسْتُشْهِدَ (يُستَشْهَدُ) اِسْتِشهاد,to become a martyr,verb Chapter_16 Chapter_18 Chapter_20
+أسَّسَ (يُؤَسِّسُ) تأسيس,"to establish, to found",verb Chapter_16
+أسْوَد,black,noun Colors Chapter_16
+سود,black (pl),noun Colors Chapter_16
+اُغْتيلَ (يُغتالُ) اِغتِيال,to be assassinated,verb Chapter_16
+أمير,prince,noun Titles Chapter_16
+أُمَراء,princes,noun Titles Chapter_16
+اِنْتَخَبَ (يَنتَخِبُ) اِنتِخاب,to elect,verb Chapter_16
+اﻷنْدَلُس,"Andalusia, Muslim Spain",noun Places Chapter_16
+تاريخ,history,noun Subjects Chapter_16
+تَواريخ,history (pl),noun Subjects Chapter_16
+تَمييز,discrimination,noun Chapter_16
+تُوُفِيَ (يُتَوَفّى) وَفاة,to pass away,verb Chapter_16
+جامِع,mosque,noun Islam Chapter_16
+جَوامِع,mosques,noun Islam Chapter_16
+جائِزة,"prize, award",noun Chapter_16
+جَوائِز,"prizes, awards",noun Chapter_16
+جَبْر,algebra,noun Subjects Chapter_16
+جُرِحَ (يُجرَحُ) جَرح,"to be wounded, to be hurt",verb Chapter_16
+جُمهوريّة,republic,noun Chapter_16
+جُمهوريّات,republics,noun Chapter_16
+جَيْش,army,noun Chapter_16
+جُيوش,armies,noun Chapter_16
+حارَبَ (يُحارِبُ) حَرْب/مُحارَبة,to fight,verb Chapter_16
+حَرْب,war,noun Chapter_16
+حُروب,wars,noun Chapter_16
+حِساب,account,noun Chapter_16
+حِسابات,accounts,noun Chapter_16
+حَصَلَ (يَحصُلُ) حُصول,"to acquire, to obtain, to get",verb Chapter_16
+حَكَى (يَحْكي) حِكاية,to tell a story; to talk,verb Chapter_16
+خَرَجَ (يَخرُجُ) خُروج,to go out; to exit,verb Chapter_16
+خَطيب,"orator, preacher, speaker",noun Occupations Chapter_16
+خُطَباء,"orators, preachers, speakers",noun Occupations Chapter_16
+دَخَلَ (يَدخُلُ) دُخول,to enter,verb Chapter_16
+دَفَعَ (يَدْفَعُ) دَفْع,to pay,verb Chapter_16
+دِفاع,defense,noun Chapter_16 Chapter_23
+دِفاعات,defenses,noun Chapter_16
+رَفَضَ (يَرفُضُ/يَرفِضُ) رَفْض,to reject,verb Chapter_16
+رَئيس,"leader, president",noun Occupations Chapter_16
+رُؤَساء,"leaders, presidents",noun Occupations Chapter_16
+زَعيم,leader (popular),noun Occupations Chapter_16
+زُعَماء,leaders (popular),noun Occupations Chapter_16
+شابّ,young man,noun People Chapter_16
+شَباب,young men,noun People Chapter_16
+شاعِر,poet,noun Occupations Chapter_16
+شُعَراء,poets,noun Occupations Chapter_16
+شَخصِيّة,"personality, character",noun Abstract Chapter_16
+شَخصِيّات,"personalities, characters",noun Abstract Chapter_16
+ضابِط,ranking officer,noun Chapter_16
+ضُبّاط,ranking officers,noun Chapter_16
+طَلَبَ (يَطْلُب) طَلَب,"to request, to order (e.g. in a restaurant)",verb Chapter_16
+طولون,Toulon (a town in southern France),noun Places Chapter_16
+عالِم,"scholar, scientist",noun Occupations Chapter_16
+عُلَماء,"scholars, scientists",noun Occupations Chapter_16
+عالِم اجْتِماع,sociologist,noun Occupations Chapter_16
+عِلْم اجْتِماع,sociology,noun Subjects Chapter_16
+عَرَّفَ (يُعَرِّف) تَعريف (على),to introduce someone to someone else,verb Chapter_16
+عُنصٌر,"race, element",noun Chapter_16
+عَناصِر,"races, elements",noun Chapter_16
+عُنصُريّ,racial,adj Chapter_16
+فَلْسَفة,philosophy,noun Subjects Chapter_16
+فَلسَفات,philosophies,noun Subjects Chapter_16
+فَيْلَسوف,philosopher,noun Occupations Chapter_16
+فَلاسِفة,philosophers,noun Occupations Chapter_16
+قامَ (يَقومُ) قِيام,"to do, to perform",verb Chapter_16
+قانون,law,noun Subjects Chapter_16
+قَوانين,laws,noun Subjects Chapter_16
+قائد,leader (military),noun Occupations Chapter_16
+قادة,leaders (military),noun Occupations Chapter_16
+قَرية,village,noun Places Chapter_16
+قُرى,villages,noun Places Chapter_16
+قِسّيس,priest,noun Religious Chapter_16
+قِسّاوِسة,priests,noun Religious Chapter_16
+كاتِب,"writer, scribe",noun Occupations Chapter_16
+كُتّاب/كَتَبة,"writers, scribes",noun Occupations Chapter_16
+كرمال,for the sake of (Syrian colloquial),phrase Chapter_16
+كَريم,generous,adj Chapter_16
+كُرَماء,generous (pl),adj Chapter_16
+ﻻزِم,necessary,adj Common Chapter_16
+مُحامٍ,"lawyer, attorney, counsel",noun Occupations Chapter_16
+مُحامون,"lawyers, attorneys, counsels",noun Occupations Chapter_16
+مُشَكَّل,mixed,adj Chapter_16
+مُقَدِّمة,introduction,noun Chapter_16
+مَكان,"place, location",noun Chapter_16
+أمْكِنة,"places, locations",noun Chapter_16 Chapter_19
+مَلِك,king,noun Occupations Chapter_16 Chapter_19
+مُلوك,kings,noun Occupations Chapter_16
+مْنيح,good (Syrian colloquial),adj Common Chapter_16
+امْناح,good (Syrian colloquial) (pl),adj Common Chapter_16
+مُؤَرِّخ,historian,noun Occupations Chapter_16
+مُؤَرِّخون,historians,noun Occupations Chapter_16
+نُفِيَ (يُنْفى) نَفْيٌ,"to be sent into exile, to be expelled",verb Chapter_16
+هَللأ/هَلَّق,now (Syrian colloquial),adv Common Chapter_16
+وَزير,minister,noun Occupations Chapter_16
+وُزَراء,ministers,noun Occupations Chapter_16
+أَجْنَبيّ,foreigner,noun Chapter_16
+أَجانِب,foreigners,noun Chapter_17
+أجْنَبيّ/أجْنَبيَّة,foreign,adj Chapter_17
+أَخَذَ (يَأخُذُ) أخْذ,to take,verb Chapter_17
+أرْسَلَ (يُرسِلُ) إرْسال,to send,verb Chapter_17
+اِسْتَقبَلَ (يَسْتَقبِلُ) اِستِقبال,to receive (someone),verb Chapter_17
+اِعتَقَدَ (يَعتَقِدُ) اِعتِقاد,to believe,verb Chapter_17
+اِلْتِهاب,"inflammation, infection",noun Medical Chapter_17 Chapter_23
+اِلتِهابات,"inflammations, infections",noun Medical Chapter_17
+ألَم,pain,noun Chapter_17
+آلآم,pains,noun Chapter_17
+آلَمَ (يُؤلِمُ),to hurt,verb Chapter_17
+أمّا,"as for, but, yet, however",particle Chapter_17
+بِداية,beginning,noun Chapter_17
+بِدايات,beginnings,noun Chapter_17
+بَسّ,only (Syrian colloquial),adv Chapter_17
+بَوّابة,gate,noun Chapter_17
+بَوّابات,gates,noun Chapter_17
+جالِس,sitting,noun Chapter_17
+جالِسون,sitting (pl),noun Chapter_17
+حَبّة,pill,noun Medical Chapter_17
+حَبّات,pills,noun Medical Chapter_17
+حُكومة,government,noun Chapter_17
+حُكومات,governments,noun Chapter_17
+حَمَلَ (يَحْمِلُ) حَمْل,to carry,verb Chapter_17
+رَأى (يَرى) رُؤية,to see,verb Chapter_17
+رَبّةُ بَيْت,housewife,noun Occupations Chapter_17
+رِبّات بُيوت,housewives,noun Occupations Chapter_17
+رَح,future marker (=will in Syrian colloquial),particle Chapter_17
+زَميل,"colleague, coworker",noun People Chapter_17
+زُمَلاء,"colleagues, coworkers",noun People Chapter_17
+ساعٍ,mail carrier,noun Occupations Chapter_17
+سُعاة (ساعي بَريد),mail carriers,noun Occupations Chapter_17
+ساعَدَ (يُساعِدُ) مُساعَدة,"to help, to assist",verb Chapter_17
+سالِم,"safe, secure; healthy",noun Descriptive Chapter_17
+سالِمون,"safe, secure; healthy (pl)",noun Descriptive Chapter_17
+سَبَب,"reason, cause",noun Chapter_17
+أسْباب,"reasons, causes",noun Chapter_17
+الشام,"Syria, Damascus, Greater Syria",noun Places Chapter_17
+شَراب,"drink, beverage, sherbert",noun Food Chapter_17
+أشْرِبة، شَرابات,"drinks, beverages, sherberts",noun Food Chapter_17
+ضِدٌّ,"opposite, anti-, adversary, opponent",noun Chapter_17
+أضْداد,"opposites, anti-, adversaries, opponents",noun Chapter_17
+ضِرْس,molar tooth,noun Body Chapter_17
+أضْراس، ضُروس,molar teeth,noun Body Chapter_17
+طَبيب,"physician, doctor",noun Occupations Chapter_17
+أَطِبّاء,"physicians, doctors",noun Occupations Chapter_17
+طَيِّب,good,noun Descriptive Chapter_17
+طَيِّبون,goods,noun Descriptive Chapter_17
+عام,year,noun Times Chapter_17
+أعْوام,years,noun Times Chapter_17
+عَجْقة,crowded (Syrian colloquial),noun Chapter_17
+عَلِمَ (يَعْلَمُ) عِلْم,to know,verb Chapter_17
+غُروب,sunset,noun Times Chapter_17
+غَنيّ,"rich, wealthy",noun Descriptive Chapter_17
+أغنِياء,"rich, wealthy (pl)",noun Descriptive Chapter_17
+فـ,"and, then, so",particle Chapter_17
+فائِدة,"benefit, use, advantage",noun Chapter_17
+فَوائِد,"benefits, uses, advantages",noun Chapter_17
+فَقير,poor,noun Descriptive Chapter_17
+فُقَراء,poor (pl),noun Descriptive Chapter_17
+قَلِقَ (يَقْلَق) قَلَق,to worry,verb Chapter_17
+كَمل,as,particle Chapter_17
+كَهْرَباء,electricity,noun Chapter_17
+لَمْ,not (particle used to negate past-tense verbs),particle Chapter_17
+لَيْلة,(a) night,noun Times Chapter_17
+لَيالٍ,nights,noun Times Chapter_17
+ما عَدا,except,particle Chapter_17
+ماضٍ (الماضي),"previous, last, past",adj Common Chapter_17
+مَدْرَسة,school,noun Education Chapter_17
+مَدارِس,schools,noun Education Chapter_17
+مُعايَدة,greeting,noun Chapter_17
+مُعايَدات,greetings,noun Chapter_17
+مَكْتوب,written,noun Chapter_17
+مِنْحة,"scholarship, grant, gift",noun Education Chapter_17
+مِنَح,"scholarships, grants, gifts",noun Education Chapter_17
+نَوْع,"kind, sort",noun Chapter_17
+أنْواع,"kinds, sorts",noun Chapter_17
+وَجَدَ (يَجِدُ) وُجود,to find,verb Chapter_17
+أثاث,furniture,noun Household Chapter_17
+اِجْتَمَعَ (يَجْتَمِع) اِجْتِماع,to meet; to gather,verb Chapter_18
+أجَّر (يؤجِّر) تأجير,"to lease, to let",verb Chapter_18
+أُجْرة,"rent, wage, fare",noun Chapter_18
+أُجور,"rents, wages, fares",noun Chapter_18
+آخَر,other,noun Common Chapter_18
+آخَرون,other (pl),noun Common Chapter_18
+أريكة,couch,noun Household Chapter_18
+أرائِك,couches,noun Household Chapter_18
+استأجَرَ (يَستأجِرُ) استِئجار,"to rent, to hire",verb Chapter_18
+أَعْجَبَ (يُعْجِبُ) إعْجاب,to please,verb Chapter_18
+إعْلان,advertisement,noun Chapter_18
+إعْلانات,advertisements,noun Chapter_18
+أمامَ,in front of,prep Common Chapter_18
+أنْ,to (infinitive),particle Chapter_18
+أوروبا,Europe,noun Places Chapter_18
+إيجار,rent,noun Chapter_18
+إيجارات,rent (pl),noun Chapter_18
+بَرّاد,refrigerator (Syria),noun Household Chapter_18
+بَرّادات,refrigerators (Syria),noun Household Chapter_18
+بَعيد,far,adv Chapter_18
+بَقّال,grocer,noun Occupations Chapter_18
+بَقّالون,grocers,noun Occupations Chapter_18
+بَلَديّ,"local, popular",adj Chapter_18
+بَنْك,bank (colloquial),noun Locations Chapter_18
+بُنوك,banks (colloquial),noun Locations Chapter_18
+تَأخَّرَ (يَتَأخَّرُ) تَأخُّر,to be late,verb Chapter_18
+تأمين,insurance,noun Chapter_18 Chapter_24
+تأمينات,insurance (pl),noun Chapter_18
+تَليفون,telephone (colloquial),noun Household Chapter_18
+تَليفونات,telephones (colloquial),noun Household Chapter_18
+ثَلاّجة,refrigerator (Egypt),noun Household Chapter_18
+ثلاّجات,refrigerators (Egypt),noun Household Chapter_18
+جُزْء,part,noun Chapter_18
+أجْزاء,parts,noun Chapter_18
+جَلاّية,dishwasher,noun Household Chapter_18
+جَلاّيات,dishwashers,noun Household Chapter_18
+جُنَيه,[Egyptian] pound,noun Chapter_18
+جُنَيْهات,[Egyptian] pounds,noun Chapter_18
+حَديقة,"park, garden",noun Locations Chapter_18
+حَدائِق,"parks, gardens",noun Locations Chapter_18
+حَوْض,[bath] tub,noun Household Chapter_18
+أحْواض,[bath] tubs,noun Household Chapter_18
+خادِم,servant,noun Occupations Chapter_18
+خَدَم,servants,noun Occupations Chapter_18
+خَبّاز,baker,noun Occupations Chapter_18
+خَبّازون,bakers,noun Occupations Chapter_18
+خَشَب,"wood, lumber, timber",noun Chapter_18
+أخْشاب,"wood, lumber, timber (pl)",noun Chapter_18
+خُضَريّ,greengrocer,noun Occupations Chapter_18
+خُضَريّون,greengrocers,noun Occupations Chapter_18
+خَلفَ,behind,prep Common Chapter_18
+دُكّان,"shop, store",noun Locations Chapter_18
+دَكاكين,"shops, stores",noun Locations Chapter_18
+دينار,"dinar (Algeria, Bahrain, Iraq, Kuwait)",noun Chapter_18
+دَنانير,"dinars (Algeria, Bahrain, Iraq, Kuwait)",noun Chapter_18
+سَخّان لِلماء,water heater,noun Chapter_18
+شاحِنة,truck,noun Transportation Chapter_18
+شاحِنات,trucks,noun Transportation Chapter_18
+شَرِكة,company,noun Chapter_18
+شَرِكات,companies,noun Chapter_18
+صِحّة,health,noun Chapter_18
+طابَق,"floor, story, flat",noun Chapter_18
+طَوابِق,"floors, stories, flats",noun Chapter_18
+على العُموم,"in general, generally",adv Chapter_18
+عَلَّقَ (يُعَلِّقُ) تَعْليق,to hang,verb Chapter_18
+عِيادة,"doctor's practice, clinic",noun Locations Chapter_18
+عِيادات,"doctors' practices, clinics",noun Locations Chapter_18
+عَيش,bread (Egypt),noun Food Chapter_18
+غاز,[butane] gas,noun Chapter_18
+غازات,[butane] gases,noun Chapter_18
+غَسّالة,washing machine,noun Household Chapter_18
+غَسّالات,washing machines,noun Household Chapter_18
+فاخِر,"deluxe, fancy, excellent, luxurious",adj Chapter_18
+لَيْرة,[Syrian] pound; lira,noun Chapter_18
+لَيْرات,[Syrian] pounds; liras,noun Chapter_18
+م (مِتْر),meter,noun Chapter_18
+أمْتار,meters,noun Chapter_18
+مَجْلى,kitchen sink,noun Household Chapter_18
+مَجالٍ,kitchen sinks,noun Household Chapter_18
+مَخْبَز,bakery,noun Locations Chapter_18
+مَخابِز,bakeries,noun Locations Chapter_18
+مُخَطَّط,"[floor] plan, map",noun Chapter_18
+مُخَطّطات,"[floor] plans, maps",noun Chapter_18
+مِرْآة,mirror,noun Household Chapter_18
+مَرايا,mirrors,noun Household Chapter_18
+مِرْحاض,toilet,noun Household Chapter_18
+مَراحيض,toilets,noun Household Chapter_18
+مُرْتَفِع,elevated,adj Chapter_18
+مُريح,comfortable,adj Chapter_18
+مِصْباح,lamp,noun Household Chapter_18
+مَصابيح,lamps,noun Household Chapter_18
+مَصْرِف,bank,noun Locations Chapter_18
+مَصارِف,banks,noun Locations Chapter_18
+مُطِلٌّ,overlooking,noun Chapter_18
+مَغْسَلة,"washbasin, bathroom sink",noun Household Chapter_18
+مَغاسِل,"washbasins, bathroom sinks",noun Household Chapter_18
+مُقابِل,"opposite, across from",adv Chapter_18
+مَلبَس,clothes,noun Clothing Chapter_18
+مَلابِس,clothes (pl),noun Clothing Chapter_18
+مَوْقِد,[cooking] range,noun Household Chapter_18
+مَواقِد,[cooking] ranges,noun Household Chapter_18
+مَوْقِف,"[bus] stop, parking lot",noun Transportation Chapter_18
+مَواقِف,"[bus] stops, parking lots",noun Transportation Chapter_18
+واسِع,"spacious, large",adj Chapter_18
+وُجِدَ (يوجَدُ),"there is/are, to exist",verb Chapter_18
+وَضَعَ (يَضَعُ) وَضْع,to put,verb Chapter_18
+وَقَعَ (يَقَعُ) وُقوع/وَقْع,to be located; fall down,verb Chapter_18
+يَسار,left,noun Directions Chapter_18
+يَمين,right,noun Directions Chapter_18
+آبَ (يَؤوبُ) إياب,to return,verb Chapter_18
+أبيَض,white (m),adj Colors Chapter_19
+بيض,white (m/f pl),adj Colors Chapter_19
+أثَر,"ruin, antiquity, artifact, relic",noun Chapter_19 Chapter_20
+آثار,"ruins, antiquities, artifacts, relics",noun Chapter_19
+أجابَ (يُجيبُ) إجابة,"to respond, to answer",verb Chapter_19
+إذاً,"then, therefore",adv Chapter_19
+استَمتَعَ (يَستَمتِعُ) استِمتاع,to enjoy,verb Chapter_19
+إلى أنْ,until,conj Chapter_19
+آلة,"apparatus, device, gadget, machine",noun Chapter_19
+آلات,"apparatuses, devices, gadgets, machines",noun Chapter_19
+التَقى (يَلتَقي) التِقاء,"to meet, converge, encounter",verb Chapter_19
+اِلْتَقَطَ (يَلْتَقِطُ) اِلْتِقاط,"to take, make (a picture); to pick up",verb Chapter_19
+الّّتي,"who, that",noun Chapter_19 Chapter_24
+الَّذي,"who, that",noun Chapter_19
+امتَحَنَ (يَمتَحِنُ) امتِحان,"to examine, to test",verb Chapter_19
+باكِراً,early,adv Chapter_19
+بَريد,"mail, post",noun Chapter_19
+بَقِيَ (يَبْقى) بَقاء,"to remain, to stay",verb Chapter_19
+بَنى (يَبني) بِناء,"to build, to construct",verb Chapter_19 Chapter_20
+تَجَوَّلَ (يَتَجَوَّلُ) تَجَوُّل,"to wander about, to tour",verb Chapter_19
+تَذكِرة,ticket,noun Chapter_19
+تَذاكِر,tickets,noun Chapter_19
+تِمثال,statue,noun Chapter_19
+تَماثيل,statues,noun Chapter_19
+جَمَل,camel,noun Animals Chapter_19
+جِمال,camels,noun Animals Chapter_19
+حُرِّيّة,"liberty, freedom",noun Abstract Chapter_19
+حُرِّيّات,"liberties, freedoms",noun Abstract Chapter_19
+حَيَوان,animal,noun Animals Chapter_19
+حَيَوانات,animals,noun Animals Chapter_19
+دائماً,always,adv Chapter_19
+دَخَّنَ (يُدَخِّنُ) تَدْخين,to smoke (e.g. a cigarette),verb Chapter_19
+راح (يروح) على,to go (Syrian colloquial),verb Chapter_19
+رَجا (يَرجو)رَجاء,to hope,verb Chapter_19
+رَكِبَ (يَركَبُ) رُكوب,"to ride, to mount",verb Chapter_19
+سادة,unsweetened coffee,noun Food Chapter_19
+سارَ (يَسيرُ) سَيْر,"to move, to walk, to travel, to march, to follow",verb Chapter_19
+سَعيد,"happy, pleased, joyful",adj Chapter_19
+سُعَداء,"happy, pleased, joyful (pl)",adj Chapter_19
+سُؤال,"question, query",noun Chapter_19
+أسئِلة,"questions, queries",noun Chapter_19
+شَلاّل,waterfall,noun Chapter_19
+شَلاّلات,waterfalls,noun Chapter_19
+شَمال,north; left,noun Directions Chapter_19
+صَحّة و هَنا,bon appétit (Syrian colloquial),phrase Chapter_19
+صِناعة,industry,noun Chapter_19
+صِناعات,industries,noun Chapter_19
+سَوَّرَ (يُصَوِّرُ) تَصوير,"to make a picture, to portray, to illustrate",verb Chapter_19
+عَدَد,number (quantity),noun Chapter_19
+أعْداد,numbers (quantity),noun Chapter_19
+عَرْض,"show, demonstration, performance",noun Entertainment Chapter_19
+عُروض,"shows, demonstrations, performances",noun Entertainment Chapter_19
+عَزيز,"dear, esteemed, beloved",noun Descriptive Chapter_19
+أعِزّاء,"dear, esteemed, beloved (pl)",noun Descriptive Chapter_19
+عَظيم,"great, important, imposing",noun Descriptive Chapter_19
+عُظَماء,"great, important, imposing (pl)",noun Descriptive Chapter_19
+غالٍ,"expensive, dear",noun Descriptive Chapter_19
+غالِباً,"often, mostly, generally",adv Chapter_19
+غَرْب,west,noun Directions Chapter_19
+فِرعَون,pharoah,noun Titles Chapter_19
+فَراعِنة,pharoahs,noun Titles Chapter_19
+فِرقة,"band, company, troupe",noun Chapter_19
+فِرَق، أفْرِقة,"bands, companies, troupes",noun Chapter_19
+قارِب,boat,noun Transportation Chapter_19
+قَوارِب,boats,noun Transportation Chapter_19
+قامَرَ (يُقامِرُ) مُقامَر، قِمار,to gamble,verb Chapter_19
+قَدَّمَ (يُقَدِّمُ) تَقديم,"to serve, to provide",verb Chapter_19
+كَذلِكَ,"also, as well",adv Chapter_19
+كيلومِتر,kilometer,noun Measurements Chapter_19
+كيلومِترات,kilometers,noun Measurements Chapter_19
+لَدى,at (expressing possession),prep Chapter_19
+لُعبة,"game, play, ride",noun Entertainment Chapter_19
+لُعبات، ألعاب,"games, plays, rides",noun Entertainment Chapter_19
+مَبنى,"building, construction",noun Chapter_19
+مَبانٍ,"buildings, constructions",noun Chapter_19
+مُتحَف,museum,noun Locations Chapter_19
+مَتاحِف,museums,noun Locations Chapter_19
+مُحِبّ,loving,noun Descriptive Chapter_19
+مُحِبّون,loving (pl),noun Descriptive Chapter_19
+مُخلِص,"sincere, faithful, (sincerely yours)",noun Descriptive Chapter_19
+مُخلِصون,"sincere, faithful, (sincerely yours) (pl)",noun Descriptive Chapter_19
+مُدّة,"period, duration",noun Times Chapter_19
+مُدَد,"periods, durations",noun Times Chapter_19
+مَرَّ (يَمُرُّ) مُرور,"to pass, to go by",verb Chapter_19
+مَسجِد,mosque,noun Islam Chapter_19
+مَساجِد,mosques,noun Islam Chapter_19
+مَسرَح,"theater, stage",noun Entertainment Chapter_19
+مَسارِح,"theaters, stages",noun Entertainment Chapter_19
+مُشْتاق,"one who is longing, yearning",noun Chapter_19
+مُشْتاقون,"one who is longing, yearning (pl)",noun Chapter_19
+مِصعَد,"elevator, lift",noun Chapter_19
+مَصاعِد,"elevators, lifts",noun Chapter_19
+مَعَ أنَّ,"though, although",conj Chapter_19
+مُقبِل,"coming, next, following",noun Common Chapter_19
+مُقبِلون,"coming, next, following (pl)",noun Common Chapter_19
+مِليون,million,noun Numbers Chapter_19
+مُنْدُ,"since, for",prep Chapter_19
+مَيدان,"square, field, arena",noun Locations Chapter_19
+مَيادين,"squares, fields, arenas",noun Locations Chapter_19
+ميناء,port,noun Locations Chapter_19
+مَوانِئ,ports,noun Locations Chapter_19
+نَسَمة,person (used in population counts),noun People Chapter_19
+نَسَمات,people (used in population counts),noun People Chapter_19
+هامٌّ,"important, significant",noun Descriptive Chapter_19
+هامّون,"important, significant (pl)",noun Descriptive Chapter_19
+هَرَم,pyramid,noun Chapter_19
+أهرام/أهرامات,pyramids,noun Chapter_19
+والِد,"father, parent",noun Family Chapter_19
+والِدون,"fathers, parents",noun Family Chapter_19
+أبَداً,"never, not at all",adv Chapter_19
+اتَّسَعَ (يَتَّسِعُ) اتِّساع,"to hold, to contain",verb Chapter_20
+اِتَّصَلَ (يَتَّصِلُ) اِتِّصال (بـ),to contact,verb Chapter_20
+اِتَّفَقَ (يَتَّفِقُ) اِتِّفاق (مَعَ),to agree (with someone),verb Chapter_20
+إجّاص,pear,noun Food Chapter_20
+أحمَر,red,adj Colors Chapter_20
+حُمْر,red (pl),adj Colors Chapter_20
+أخْبَرَ (يُخْبِرُ) إخْبار,"to notify, to inform",verb Chapter_20
+أزرَق,blue,adj Colors Chapter_20
+زُرْق,blue (pl),adj Colors Chapter_20
+أصْفَر,yellow,adj Colors Chapter_20
+صُفْر,yellow (pl),adj Colors Chapter_20
+باذِنجان,eggplant,noun Food Chapter_20
+بازِلاء,green peas,noun Food Chapter_20
+بامْية,ochra,noun Food Chapter_20
+بِبُطءٍ,slowly,adv Chapter_20
+بِذرة,"seed, kernel",noun Plants Chapter_20
+بُذور,"seeds, kernels",noun Plants Chapter_20
+بِطّيخ,watermelon,noun Food Chapter_20
+بَقَرة,"cow, cattle",noun Animals Chapter_20
+أبْقار/بَقَر,"cows, cattle",noun Animals Chapter_20
+بَنَدورة (طَماطِم في مصر),tomato,noun Food Chapter_20
+بَيضاء,white (f),adj Colors Chapter_20
+تابِل,"spice, condiment, seasoning",noun Food Chapter_20
+تَوابِل,"spices, condiments, seasonings",noun Food Chapter_20
+تَقريباً,"approximately, about, nearly, roughly",adv Chapter_20
+توت,berry,noun Food Chapter_20
+ثوم,garlic,noun Food Chapter_20
+جَرى (يَجري) جَري,"to run, to flow, to hurry, to rush, to happen, to occur",verb Chapter_20
+حِصان,horse,noun Animals Chapter_20
+أحْصِبة,horses,noun Animals Chapter_20
+خَسّ,lettuce,noun Food Chapter_20
+جُصوصاً,"especially, particularly",adv Chapter_20
+حَفْلة,party,noun Entertainment Chapter_20
+حَفَلات,parties,noun Entertainment Chapter_20
+ذُرة,corn,noun Food Chapter_20
+رُبَّما,"perhaps, probably",adv Chapter_20
+سَلّة,basket,noun Chapter_20
+سِلال,baskets,noun Chapter_20
+سَميط,a kind of toasted thin bread,noun Food Chapter_20
+شَرَحَ (يَشرَحُ) شَرْح,"to explain, to explain, to illustrate",verb Chapter_20
+شَطيرة,sandwich,noun Food Chapter_20
+شَطائِر,sandwiches,noun Food Chapter_20
+شَوى (يَشوي) شَي,"to grill, to boil",verb Chapter_20
+ضَحِكَ (يَضْحَكُ) ضِحْك,to laugh,verb Chapter_20
+عامّ,public,adj Chapter_20 Chapter_23
+عَصا,"stick, rod, cane",noun Chapter_20
+عُصِيّ,"sticks, rods, canes",noun Chapter_20
+على ما يَبْدو (أنّ),it seems; it appears,phrase Chapter_20
+عِنَب,grape,noun Food Chapter_20
+غَيْر,"non-, un-, other than, different from",noun Chapter_20
+فازَ (يفوزُ) فَوز,to win,verb Chapter_20
+فاصولية,green beans,noun Food Chapter_20
+فَريق,"team, company, band, troupe",noun Chapter_20
+فِرَق,"teams, companies, bands, troupes",noun Chapter_20
+فَكَّرَ (يُفَكِّرُ) تَفْكير,"to think, to reflect, to ponder (not to believe)",verb Chapter_20
+فُلَيفُلة,green (bell) pepper,noun Food Chapter_20
+فَهِمَ (يَفْهَمُ) فَهْم,"to understand, to comprehend, to realize",verb Chapter_20
+فول (سوداني),peanuts,noun Food Chapter_20
+قاعِدة,"rule, principle, basis, foundation, base",noun Chapter_20
+قَواعِد,"rules, principles, bases, foundations",noun Chapter_20
+قَرنَبيط,cauliflower,noun Food Chapter_20
+كَـ,"like, as",prep Chapter_20
+كافٍ (الكافي),sufficient,adj Chapter_20 Chapter_23
+كُرة,"ball, sphere",noun Sports Chapter_20
+كُرات,"balls, spheres",noun Sports Chapter_20
+كُرةُ السَلّة,basketball,noun Sports Chapter_20
+كُرةُ الطاولة,table tennis,noun Sports Chapter_20
+الكُرةُ الطائرة,volleyball,noun Sports Chapter_20
+كُرةُ القَدَم,football/soccer,noun Sports Chapter_20
+كُرةُ الماء,water polo,noun Sports Chapter_20
+كُرةُ المَضرِب,tennis,noun Sports Chapter_20
+كوسا,zucchini,noun Food Chapter_20
+لُبّ,"kernel, seed",noun Plants Chapter_20
+لُبوب,"kernels, seeds",noun Plants Chapter_20
+لَذيذ,"delicious, delightful, tasty",adj Chapter_20
+لَعِبَ (يَلعَبُ) لُعْب,to play,verb Chapter_20
+لَمْ يَعُدْ,no longer,phrase Chapter_20
+ماء غازيّ,soda,noun Food Chapter_20
+مِياه غازيّة,sodas,noun Food Chapter_20
+مُباراة,"match, game",noun Sports Chapter_20
+مُبارَيات,"matches, games",noun Sports Chapter_20
+مُتَفَرِّج,spectator,noun Sports Chapter_20
+مُتَفَرِّجون,spectators,noun Sports Chapter_20
+مُحَمَّص,"roasted, toasted",adj Food Chapter_20
+مِشواة,"grill, gridiron",noun Chapter_20
+مَشاوٍ,"grills, gridirons",noun Chapter_20
+مَشويّ,grilled,adj Food Chapter_20
+مُفَضَّل,"preferred, favorite",adj Chapter_20
+مَوْز,banana,noun Food Chapter_20
+نَقانِق (أو مَقانِق),"small, spicy mutton sausage",noun Food Chapter_20
+وَقْت,time,noun Chapter_20
+أوْقات,times,noun Chapter_20
+أثْناء,during,prep Chapter_20
+آسيا,Asia,noun Places Chapter_21
+أطَلَّ (يُطِلُّ) إطْلال,to overlook,verb Chapter_21
+أطلَسيّ,Atlantic,adj Places Chapter_21
+أطْلَقَ (يُطْلِق) إطْلاق,"to discharge a firearm, to shoot; to dispatch",verb Chapter_21
+اِعتَبَرَ (يَعتَبِرُ) اِعتِبار,to consider,verb Chapter_21
+أعْلى,"top, highest point, upper",noun Common Chapter_21
+أعالٍ,"tops, highest points, upper",noun Common Chapter_21 Chapter_24
+إفريقية,Africa,noun Places Chapter_21 Chapter_24
+إقليم,region,noun Places Chapter_21
+أقاليم,regions,noun Places Chapter_21
+أنتَجَ (يُنتِجُ) إنتاج,to produce,verb Chapter_21
+اِنقَطَعَ (يَنقَطِعُ) اِنقِطاع,"to be interrupted, to be severed",verb Chapter_21
+إيران,Iran,noun Places Chapter_21
+بادِية,semi-arid desert,noun Geography Chapter_21
+بَوادٍ,semi-arid deserts,noun Geography Chapter_21
+بِضاعة,"merchandise, goods",noun Chapter_21
+بَضائِع,"merchandise, goods (pl)",noun Chapter_21
+بوظة,ice cream,noun Food Chapter_21
+تَأَلَّفَ (يَتَألَّفُ) تَألُّف,"to consist of, to comprise",verb Chapter_21
+تَقْليديّ,traditional,adj Chapter_21
+تَمْر,date (fruit),noun Food Chapter_21
+تُمور,dates (fruit),noun Food Chapter_21
+ثَقْب,hole,noun Chapter_21
+ثُقوب,holes,noun Chapter_21
+جَبَل,mountain,noun Geography Chapter_21
+جِباب,mountains,noun Geography Chapter_21
+جَرَّبَ (يُجَرِّبُ) تَجْرِبة,"to test, to try (not to attempt)",verb Chapter_21
+جَزيرة,island,noun Geography Chapter_21
+جُزُر,islands,noun Geography Chapter_21
+جغرافية,geography,noun Subjects Chapter_21
+جَنوب,south,noun Directions Chapter_21
+جِهاز,"device, apparatus, appliance",noun Chapter_21
+أجهِزة,"devices, apparatuses, appliances",noun Chapter_21
+حدَّ (يَحُدُّ) حَدّ,"to border, to demarcate, to limit",verb Chapter_21
+حَدّ,"border, edge, boundary, borderline",noun Chapter_21
+حُدود,"borders, edges, boundaries, borderlines",noun Chapter_21
+حِذاء,shoe,noun Clothing Chapter_21
+أحْذية,shoes,noun Clothing Chapter_21
+خَريطة,map,noun Directions Chapter_21
+خَرائِط,maps,noun Directions Chapter_21
+خَصيب,fertile,adj Chapter_21
+خَليج,"gulf, bay",noun Geography Chapter_21
+خُلجان,"gulfs, bays",noun Geography Chapter_21
+راكِب,"passenger, rider",noun Transportation Chapter_21
+رُكّاب,"passengers, riders",noun Transportation Chapter_21
+رِحْلة,"trip, journey, flight",noun Transportation Chapter_21
+رِحلات,"trips, journeys, flights",noun Transportation Chapter_21 Chapter_23
+رَصاص,bullets; lead,noun Chapter_21 Chapter_23
+رَوى (يَروي) رَيّ,"to irrigate, to water",verb Chapter_21
+زَرَعَ (يَزرَعُ) زَرْع، زِراعة,"to plant, to cultivate",verb Chapter_21
+ساحِل,"coast, shore",noun Geography Chapter_21
+سَواحِل,"coasts, shores",noun Geography Chapter_21
+سَقْف,ceiling,noun Household Chapter_21
+سُقوف,ceilings,noun Household Chapter_21
+سِلسِلة,"range, series, chain",noun Geography Chapter_21
+سَلاسِل,"ranges, series, chains",noun Geography Chapter_21
+سَهل,plain,noun Geography Chapter_21
+سُهول,plains,noun Geography Chapter_21
+شِبْه,"semi-, quasi, similarity",noun Chapter_21
+أشباه,"semi-, quasi, similarities",noun Chapter_21
+شِعار,"emblem, sign, slogan",noun Chapter_21
+شِعارات، أشعِرة,"emblems, signs, slogans",noun Chapter_21
+شَكَّلَ (يُشَكِّلُ) تَشكيل,"to form, to constitute",verb Chapter_21
+صَبَّ (يصُبُّ) صَبّ,to flow into,verb Chapter_21
+صَحْراء,desert,noun Geography Chapter_21
+صَحاري,deserts,noun Geography Chapter_21
+صِفة,characteristic,noun Chapter_21
+صِفات,characteristics,noun Chapter_21
+ضَيِّق,"narrow, tight",adj Chapter_21
+عاصِمة,capital city,noun Places Chapter_21
+عَواصِم,capital cities,noun Places Chapter_21
+عالٍ (العالي),"high, elevated",adj Chapter_21
+عَديد,"several, multiple",adj Common Chapter_21
+على طُول,"throughout, all the way",prep Chapter_21
+عَلَم,"flag, banner",noun Chapter_21
+أعْلام,"flags, banners",noun Chapter_21
+فُسْتُق,pistachio,noun Food Chapter_21
+قارّة,continent,noun Geography Chapter_21
+قارّات,continents,noun Geography Chapter_21
+قُطْر,country,noun Places Chapter_21
+أقْطار,countries,noun Places Chapter_21
+قُطْن,cotton,noun Plants Chapter_21
+قَمْح,wheat,noun Food Chapter_21
+كِلا,both,noun Common Chapter_21
+مُحيط,ocean,noun Geography Chapter_21
+مُحيطات,oceans,noun Geography Chapter_21
+مُرَبَّع,square,adj Chapter_21
+مِساحة,area,noun Chapter_21
+مِساحات,areas,noun Chapter_21
+مَصْنوع (مِن),made (of/from),participle Chapter_21
+مُغَطَّى (بِـ),covered (with),participle Chapter_21
+المِكسيك,Mexico,noun Places Chapter_21
+مُنتَج,product,noun Chapter_21
+مُنتَجات,products,noun Chapter_21
+مَنْفَذ,outlet,noun Household Chapter_21
+مَنافِذ,outlets,noun Household Chapter_21
+نَبَعَ (يَنبُعُ) نَبْع,"to spring, to originate, to flow",verb Chapter_21
+نَحْو,"section, manner, mode, fashion",noun Chapter_21
+أنْحاء,"sections, manners, modes, fashions",noun Chapter_21
+نِسيج,"textile, tissue, fabric",noun Chapter_21
+نِفْط,"petroleum, crude oil",noun Chapter_21
+الهادي,Pacific,adj Places Chapter_21
+وَسَط,"middle, central",noun Common Chapter_21
+أوساط,"middle, central (pl)",noun Common Chapter_21
+أجْل (مِن أجْلِ),"for the sake of, because of",conj Chapter_21
+إذاعَة,broadcasting station,noun Entertainment Chapter_22
+إذاعَات,broadcasting stations,noun Entertainment Chapter_22
+اِسْتَمَعَ (يَسْتَمِعُ) اِسْتِماع,to listen,verb Chapter_22
+اِشْتَرَكَ (يَشْتَرِكُ) اِشْتِراك,"to enroll in, to subscribe to",verb Chapter_22
+أُغبِية,song,noun Entertainment Chapter_22
+أغانٍ,songs,noun Entertainment Chapter_22
+أمْكَنَ (يُمكِنُ) إمْكان,to be possible,verb Chapter_22
+بَثَّ (يَبُثُّ) بَثّ,to broadcast,verb Chapter_22
+بِضْع,a few,noun Chapter_22
+حَزَرَ (يحْزِرُ) حَزْر,to guess,verb Chapter_22
+حَسَّنَ (يحَسِّنُ) تَحْسين,"to improve, to make better",verb Chapter_22
+خِلال,"during, through",prep Chapter_22
+رَقَصَ (يرقُصُ) رَقْص,to dance,verb Chapter_22
+سِلْك,wire,noun Chapter_22
+أسْلاك,wires,noun Chapter_22
+سَمِعَ (يَسْمَع) سَمْع,to hear,verb Chapter_22
+شَريط,tape,noun Chapter_22
+أشْرِطة,tapes,noun Chapter_22
+شَخْص,person,noun People Chapter_22
+أشْخاص,people,noun People Chapter_22
+صَراحةً (بِصَراحة),"honestly, candidly",noun Chapter_22
+طَبْعاً,of course,adv Chapter_22
+طَبيعة,nature,noun Chapter_22
+ظَهَرَ (يَظهَرُ) ظُهور,"to appear, to become visible",verb Chapter_22
+عاميّ,"colloquial, vulgar, dialectal",adj Chapter_22
+غَنّى (يُغَنّي) غِناء,to sing,verb Chapter_22
+فَزّورة,riddle,noun Chapter_22
+فَوازير,riddles,noun Chapter_22
+فَصيح,"pure, good, clear, standard, or literary, Arabic",adj Chapter_22
+فَضاء,space,noun Chapter_22
+قَمَر,"moon, satellite",noun Chapter_22
+أقْمار,"moons, satellites",noun Chapter_22
+قَناة,channel,noun Entertainment Chapter_22
+قَنَوات,channels,noun Entertainment Chapter_22
+كيبِل,cable,noun Chapter_22
+ماتَ (يموتُ) مَوْت,to die,verb Chapter_22
+مَجّانيّ,free of charge,adj Chapter_22
+مُذيع,announcer,noun Occupations Chapter_22
+مُذيعون,announcers,noun Occupations Chapter_22
+مُطْرِب,entertainer,noun Occupations Chapter_22
+مُطْرِبون,entertainers,noun Occupations Chapter_22
+مُغَنٍّ,singer,noun Occupations Chapter_22
+مُغَنٍّون,singers,noun Occupations Chapter_22
+مُقابَلة,interview,noun Chapter_22
+مُقابَلات,interviews,noun Chapter_22
+مُمْتاز,excellent,adj Common Chapter_22
+مُمْتازون,excellent (pl),adj Common Chapter_22
+مُمَثِّل,"actor, representative",noun Occupations Chapter_22
+مُمَثِّلون,"actors, representatives",noun Occupations Chapter_22
+مِن خِلالِ,"by means of, via",prep Chapter_22
+مَوْجة,wave,noun Chapter_22
+مَوْجات,waves,noun Chapter_22
+نَشْرة,"bulletin, report",noun Chapter_22
+نَشَرات,"bulletins, reports",noun Chapter_22
+نِظام,system,noun Chapter_22
+أنْظِمة,systems,noun Chapter_22
+اِخْتَلَفَ (يَخْتَلِفُ) اِخْتِلاف (عَن),to differ (from),verb Chapter_22
+اِرتَفَعَ (يَرتَفِعُ) اِرتِفاع,"to rise, to be higher",verb Chapter_23
+اِستَضافَ (يستَضيفُ) استِضافة,to host,verb Chapter_23
+اِشْتاقَ (يَشْتاقُ) اِشْتِياق (لـ/ألى),"to long (for), to yearn",verb Chapter_23
+أصَرَّ (يُصِرُّ) إصْرار,to insist,verb Chapter_23
+اِقْتَرَبَ (يَقْتَرِبُ) اِقْتِراب (مِن),"to draw near, get close (to)",verb Chapter_23
+إنْ,if,particle Chapter_23
+أيَّما,"immensely, greatly",noun Chapter_23
+بَسيط,simple,adj Chapter_23
+بُسطاء,simple (pl),adj Chapter_23
+تأشيرة دُخول,visa,noun Chapter_23
+تَدافَعَ (يَتَدافَعُ) تَدافُع,"to push, shove one another",verb Chapter_23
+تَعَوَّدَ (يَتَعَوَّدُ) تَعَوُّد (على),to be accustomed to,verb Chapter_23
+تَنَزَّهَ (يَتَنَزَّهُ) تَنَزُّه,to stroll; to have a good time; to go on a picnic,verb Chapter_23
+جَواز (سَفر),passport,noun Chapter_23
+حَضَرَ (يحْضُرُ) حُضور,"to attend, to be present",verb Chapter_23
+خارِج,outside,noun Chapter_23
+خَفَّفَ (يُخَفِّفُ) تَخْفيف (عَن),to diminish the difficulty of,verb Chapter_23
+خَليفة,"caliph, successor",noun Titles Chapter_23
+خُلَفاء,"caliphs, successors",noun Titles Chapter_23
+ساقَ (يَسوقُ) سِياقة,to drive,verb Chapter_23
+سَخيف,"silly, absurd, foolish",adj Chapter_23
+سُخَفاء,"silly, absurd, foolish (pl)",adj Chapter_23
+سَرَّ (يَسُرُّ) سُرور,"to please, to be glad",verb Chapter_23
+سَطْح,"surface, level",noun Chapter_23
+سُطوح,"surfaces, levels",noun Chapter_23
+سِياسيّ,political,adj Chapter_23
+شَيِّق,"interesting, thrilling",adj Chapter_23
+صَحَفِيّ,journalist,noun Occupations Chapter_23
+صَحَفِيّون,journalists,noun Occupations Chapter_23
+صَحيفة,newspaper,noun Entertainment Chapter_23
+صُحُف,newspapers,noun Entertainment Chapter_23
+عَبَرَ (يَعبُرُ) عُبور,to cross,verb Chapter_23
+عَكْس,"opposite, reverse, contrary",noun Chapter_23
+غادَرَ (يُغادِرُ) مُغادَرة,to leave,verb Chapter_23
+فَلاّح,"peasant, farmworker",noun People Chapter_23
+فَلاّحون,"peasants, farmworkers",noun People Chapter_23
+قَد,"denotes completed action, emphasis, or possibility",particle Chapter_23
+أقارِب,relatives,noun Family Chapter_23
+قَلْب,heart,noun Body Chapter_23
+قُلوب,hearts,noun Body Chapter_23
+كَرَم,"hospitality, generosity",noun Abstract Chapter_23
+كَلام,"speech, speaking",noun Chapter_23
+لاعِب,player,noun Sports Chapter_23
+لاعِبون,players,noun Sports Chapter_23
+لَقَد,expresses completed action with a perfect tense verb,particle Chapter_23
+مُجْتَمَع,"society, community",noun Chapter_23 Chapter_24
+مُجْتَمَعات,"societies, communities",noun Chapter_23
+مُحاسِب,accountant,noun Occupations Chapter_23
+مُحاسِبون,accountants,noun Occupations Chapter_23
+مَزْرَعة,farm,noun Locations Chapter_23
+مَزارع,farms,noun Locations Chapter_23
+مُسَجَّل,recorded,adj Chapter_23
+مَصْنَع,"factory, plant",noun Locations Chapter_23
+مَصانِع,"factories, plants",noun Locations Chapter_23
+مَفرَش,tablecloth,noun Household Chapter_23
+مَفارِش,tablecloths,noun Household Chapter_23
+مَقْعَد,"seat, bench, armchair",noun Household Chapter_23
+مَقاعِد,"seats, benches, armchairs",noun Household Chapter_23
+مُمْتِع,enjoyable,adj Chapter_23
+مُلَوَّث,polluted,adj Chapter_23
+مَنزِل,"house, residence",noun Household Chapter_23
+مَنازِل,"houses, residences",noun Household Chapter_23
+مَنْظَر,"view, panorama",noun Chapter_23
+مَناظِر,"views, panoramas",noun Chapter_23
+مُواصَلة,means of transportation,noun Transportation Chapter_23
+مُواصَلات,means of transportation (pl),noun Transportation Chapter_23
+نادِل,waiter,noun Occupations Chapter_23
+نُدُل,waiters,noun Occupations Chapter_23
+نَعناع,"mint, peppermint",noun Food Chapter_23
+تَقيّ,pure,adj Chapter_23
+هادِئ,"quiet, serene",adj Chapter_23
+هَدِيّة,"present, gift",noun Chapter_23
+هَدايا,"presents, gifts",noun Chapter_23
+اِخْتارَ (يَخْتارُ) اِخْتِيار,to select,verb Chapter_23
+آخِر,"last, latest",adj Chapter_24
+إدارة,department,noun Chapter_24
+إدارات,departments,noun Chapter_24
+اِسْتَوْرَدَ (يَسْتَوْرِدُ) اِسْتِيراد,to import,verb Chapter_24
+أسْفَل,"bottom, lowest point, lower",noun Chapter_24
+أسافِل,"bottom, lowest points, lower (pl)",noun Chapter_24
+أشْبَهَ (يُشْبِهُ) شَبَه,to resemble,verb Chapter_24
+اِعْتَنى (يَعْتَني) اِعتِناء (بِـ),"to take care of, to tend",verb Chapter_24
+أقام (يُقيم) إقامة,to reside in,verb Chapter_24
+أُنْثى,female,noun Descriptive Chapter_24
+إناث,females,noun Descriptive Chapter_24
+بائِع,salesperson,noun Occupations Chapter_24
+بائعون,salespersons,noun Occupations Chapter_24
+بَدا (يَبدو) بُدُوُّ/بَداء,"to appear, to seem",verb Chapter_24
+بُنّيّ,brown,adj Colors Chapter_24
+تاجِر,"merchant, businessperson",noun Occupations Chapter_24
+تُجّار,"merchants, businesspersons",noun Occupations Chapter_24
+تَقاعَدَ (يَتَقاعَدُ) تَقاعُد (عن),to retire (from work),verb Chapter_24
+تَوْقيع,signature,noun Chapter_24
+جَدّ,grandfather,noun Family Chapter_24
+جُدود,grandfathers,noun Family Chapter_24
+جيولوجيا,geology,noun Subjects Chapter_24
+خال,maternal uncle,noun Family Chapter_24
+أخْوال,maternal uncles,noun Family Chapter_24
+خَزَّنَ (يُخَزِّنُ) تَخْزين,to store,verb Chapter_24
+دَليل,guide,noun Chapter_24
+أدِلاّء,guides,noun Chapter_24
+راجَعَ (يُراجِعُ) مُراجعَة,"to refer to, to review",verb Chapter_24
+رَدَّ (يَرُدُّ) رَدّ,"to respond, to answer",verb Chapter_24
+سَجَّلَ (يُسَجِّلُ) تَسْجيل,"to register, to record",verb Chapter_24
+سياحيّ,tourist,adj Chapter_24
+شَعْر,hair,noun Body Chapter_24
+شُعور/أشْعار,hairs,noun Body Chapter_24
+شِعْر,"poetry, poem",noun Chapter_24
+أشْعار,"poetry (pl), poems",noun Chapter_24
+شُهْرة,"last name, surname",noun Chapter_24
+صَدَرَ (يَصْدُرُ) صُدور,to issue,verb Chapter_24
+صُغرى,"youngest, smallest",adj Common Chapter_24
+صَيدلانِيّة,pharmacist,noun Occupations Chapter_24
+صَيْدَليّة,pharmacy,noun Locations Chapter_24
+طول,height,noun Chapter_24
+عَمّ,paternal uncle,noun Family Chapter_24
+أعْمام,paternal uncles,noun Family Chapter_24
+عُمُر,age,noun Chapter_24
+أعْمار,ages,noun Chapter_24
+عَيْن,eye,noun Body Chapter_24
+عُيون,eyes,noun Body Chapter_24
+غِيار,"spare part, change",noun Chapter_24
+غيارات,"spare parts, changes",noun Chapter_24
+فَرْع,"branch, subdivision",noun Chapter_24
+فُروع,"branches, subdivisions",noun Chapter_24
+كَلَّمَ (يُكَلِّمُ),"to talk to, to speak with",verb Chapter_24
+مُتَقاعِد,retired person,noun People Chapter_24
+مُتَقاعِدون,retired persons,noun People Chapter_24
+مَخْزَن,"store, warehouse",noun Locations Chapter_24
+مَخازِن,"stores, warehouses",noun Locations Chapter_24
+مُدَرِّس,teacher,noun Occupations Chapter_24
+مُدَرِّسون,teachers,noun Occupations Chapter_24
+مَريض,"sick, ill, patient",adj Medical Chapter_24
+مَرْضى,"sick, ill, patient (pl)",adj Medical Chapter_24
+مُسْتَشْفى,hospital,noun Locations Chapter_24
+مَفعول,"effectiveness, validity",noun Chapter_24
+مُلاحَظة,"note, observation",noun Chapter_24
+مُلاحظات,"notes, observations",noun Chapter_24
+مِهْنة,"occupation, profession",noun Occupations Chapter_24
+مِهَن,"occupations, professions",noun Occupations Chapter_24
+مُؤَلَّف (مِن),"consisting of, comprising",participle Chapter_24
+نَفْس,same,noun Chapter_24
+أنْفَس (...الـ),same (pl),noun Chapter_24
+وِزارة,"ministry, department in an administration",noun Chapter_24
+وِزارات,"ministries, departments in an administration",noun Chapter_24
+مَساع الخَيْر,good evening,phrase Chapter_24
