@@ -9,12 +9,12 @@ Generated from [https://github.com/bmaupin/android-arabic-flashcards/blob/master
 ```sql
 select arabic,
        english,
-	   -- Concat type
-	   (type ||
-	     -- ...and category if it isn't empty (https://stackoverflow.com/a/37330557/399105)
-	     coalesce(" " || nullif(category, ""), "") ||
-		 -- ...and chapter_tag column from each row where _id matches (see group by below) (https://stackoverflow.com/a/3926380/399105)
-		 " " || group_concat(chapter_tag, " ")) as tags
+       -- Concat type
+       (type ||
+         -- ...and category if it isn't empty (https://stackoverflow.com/a/37330557/399105)
+         coalesce(" " || nullif(category, ""), "") ||
+         -- ...and chapter_tag column from each row where _id matches (see group by below) (https://stackoverflow.com/a/3926380/399105)
+         " " || group_concat(chapter_tag, " ")) as tags
   -- Join cards and chapters and prepend chapter with "Chapter_"
   from (select cards.*, ("Chapter_" || chapter) as chapter_tag 
     from cards
