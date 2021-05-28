@@ -1,12 +1,3 @@
-#### Combining chapters/units
-
-```
-cd scripts
-npm install
-npm start combine-chapters.ts ../mastering-arabic-1-3rd-edition/*.csv
-```
-
-
 #### Convert CSV to Anki apkg file
 
 [https://apps.ankiweb.net/docs/manual.html#importing](https://apps.ankiweb.net/docs/manual.html#importing)
