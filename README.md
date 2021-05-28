@@ -1,3 +1,7 @@
+Various flashcard sets
+
+Most of these have been published [here](https://ankiweb.net/shared/byauthor/821083087) for use with the [Anki](https://apps.ankiweb.net/) flashcard program (recommended). The Anki package (.apkg) files are also available at the [Releases](releases) page.
+
 #### Convert CSV to Anki apkg file
 
 [https://apps.ankiweb.net/docs/manual.html#importing](https://apps.ankiweb.net/docs/manual.html#importing)
