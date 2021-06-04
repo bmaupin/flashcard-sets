@@ -1,2 +1,3 @@
+*.apkg
 scripts/*.csv
 scripts/node_modules/
