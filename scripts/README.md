@@ -18,6 +18,8 @@ python csv-to-apkg.py INPUT.csv OUTPUT.apkg
 
 Some unofficial documentation for the official Anki API, based on version 2.1.44
 
+The official documentation seems to be here: [Writing Anki Add-ons](https://addon-docs.ankiweb.net/getting-started.html)
+
 ## Installation
 
 ```
@@ -142,4 +144,20 @@ collection.decks.rename(collection.decks.current(), 'test name')
 
 ```python
 collection.decks.rename(collection.decks.get(1), 'new new name2')
+```
+
+Or:
+
+```python
+deck = collection.decks.get(deck_id)
+deck['name'] = 'Decky McDeckson'
+collection.decks.save(deck)
+```
+
+#### Set the description of a deck
+
+```python
+deck = collection.decks.get(deck_id)
+deck['desc'] = 'Descriptive description'
+collection.decks.save(deck)
 ```

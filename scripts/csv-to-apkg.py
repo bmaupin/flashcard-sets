@@ -29,7 +29,11 @@ model['did'] = deck_id
 # Save above changes to the model
 collection.models.save(model)
 
-# TODO: can we add a deck description (e.g. from README)?
+# Add a description to the deck
+# TODO: add a real description (e.g. from a README?)
+deck = collection.decks.get(deck_id)
+deck['desc'] = 'test description'
+collection.decks.save(deck)
 
 importer = TextImporter(collection, csv_file)
 print('importer.fields: {0}'.format(importer.fields))
