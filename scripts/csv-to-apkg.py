@@ -17,11 +17,8 @@ temp_dir = tempfile.gettempdir()
 collection = anki.Collection(os.path.join(temp_dir, 'collection.anki2'))
 
 # Create a new deck in the collection
-# TODO: collection.name() is "colletion"
-deck_id = collection.decks.id(collection.name())
-
-# Switch to that deck
-collection.decks.select(deck_id)
+# TODO: it would be nice to use a more user-friendly deck name (e.g. from a README?)
+deck_id = collection.decks.id(os.path.splitext(os.path.basename(apkg_file))[0])
 
 # Set note type to Basic (and reversed card)
 model = collection.models.byName('Basic (and reversed card)')
