@@ -16,7 +16,13 @@ python csv-to-apkg.py INPUT.csv OUTPUT.apkg
 
 # Anki API
 
-Version 2.1.44
+Some unofficial documentation for the official Anki API, based on version 2.1.44
+
+## Installation
+
+```
+pip3 install anki protobuf
+```
 
 ## Collections
 
@@ -37,14 +43,25 @@ The collection will contain one deck named `Default`
 ```python
 from anki.importing.csvfile import TextImporter
 
+# (Optional) Create a deck with a new name; otherwise the "Default" deck will be used
+deck_id = collection.decks.id('Deck name')
+
+# Set note type; see https://github.com/ankitects/anki/blob/main/ftl/core/notetypes.ftl
+# NOTE: This is required when creating a deck with a new name (above), otherwise it's optional
+model = collection.models.byName('Basic (and reversed card)')
+
+# This is necessary so that the import saves new cards into the new deck we just created (only necessary when creating a deck with a new name)
+model['did'] = deck_id
+
+# Save above changes to the model (again, only necessary when changing the note type or creating a deck with a new name)
+# NOTE: This is required when making changes to the model (above), otherwise it's optional
+collection.models.save(model)
+
 # NOTE: the path to the CSV file must be absolute!
 importer = TextImporter(collection, '/path/to/file.csv')
 
 # Map CSV fields; default is front, back, tags (if there's a third field)
 importer.initMapping()
-
-# (Optional) Set note type; see https://github.com/ankitects/anki/blob/main/ftl/core/notetypes.ftl
-importer.model = collection.models.byName('Basic (and reversed card)')
 
 # (Optional) set the import mode; seehttps://github.com/ankitects/anki/blob/main/pylib/anki/importing/noteimp.py
 importer.importMode = anki.importing.noteimp.ADD_MODE
